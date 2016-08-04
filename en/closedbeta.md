@@ -10,7 +10,7 @@ You might ask
 - Why is my website not listed? or 
 + On Google I find this result, why is it not on findx?
 
-Results in a search engine requires the search engine robot actually visits a website site, you can imagine it will take a while before [findxbot](http://www.findxbot.com) visits all important sites on the internet. 
+Results in a search engine requires the search engine robot actually visits a website site, you can imagine it will take a while before findxbot visits all important sites on the internet. 
 
 ###Variation in perfomance and speed  
 You may also experience performance can vary when, this happens due to the hard work and continues updates from the development team - and from time to time findx will even be unavailable.
