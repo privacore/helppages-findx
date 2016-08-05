@@ -39,3 +39,4 @@ Other people are also struggling with behavioural tracking, and it can be hard t
 In addition you can give feedback on your experience with findx beta in the forum.
  
 All the best searches from the Privacore team
+
