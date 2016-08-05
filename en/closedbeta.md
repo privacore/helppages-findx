@@ -2,6 +2,8 @@
 Beta access to findx means that you will experience findx  while it is being build - The Privacore team knows there is a lot of work to do before we are ready to a public release, but we want to let users follow the progress while we are building the new real internet search engine from Europe.
 
 ##What can I expect as a beta user?
+
+-----
 findx is not fully developed, and you can not yet be sure to find whatever you are looking for.
 
 ###Missing search results
