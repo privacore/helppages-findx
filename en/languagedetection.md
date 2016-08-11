@@ -4,9 +4,7 @@ To show relevant results when you search, findx tries to guess what language you
 
 This is done by a combination of looking at what language your browsers is set to use and your geographical location.
 
-***Example:*  
-** 
-You are in London, and prefers UK results.
+***Example: You are in London, and prefers UK results.***  
 
 Your browser is set to English, but English results can be from all over the world.   
 
