@@ -1,4 +1,4 @@
-# How is my prefered search result language set  
+# How is my prefered search result language set?  
 
 To show relevant results when you search, findx tries to guess what language you prefer to see results in. 
 
