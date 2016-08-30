@@ -1,5 +1,6 @@
 #What is findx closed beta access?
-Beta access to findx means that you will experience findx while it's being built. The Privacore team knows there is a lot of work to do before we are ready for a public release, but we want to let users follow our progress while we are building the new real internet search engine from Europe.
+Beta access to findx means that you will experience findx while it's being built. The Privacore team knows there is a lot of work to do before we are ready for a public release, but we want to let users follow our progress while we are building the new real internet search engine from Europe.  
+
 
 -----
 ##What can I expect as a beta user?
@@ -30,14 +31,16 @@ All these searches are available to you right now – but of course still in bet
 * Web search
 * Map search and route planning
 * Shopping search
-* Image and Video search
+* Image and Video search  
+
 
 
 -----
 ##Help improve search results 
 We believe you know a lot about what is good on the web and what needs improving. That's why you can help other “finders” to get better results, and why you as a user can give feedback directly in the search results.
 
-We are looking forward to hearing your thoughts on this, so keep an eye out because findx will soon be ready for you as a beta user.
+We are looking forward to hearing your thoughts on this, so keep an eye out because findx will soon be ready for you as a beta user.  
+
 
 
 ----- 
