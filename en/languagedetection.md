@@ -10,11 +10,9 @@ Your browser is set to English, but English results can be from all over the wor
 
 This way findx guess your prefers English results from UK and improves the result to match that combination.
 
-Feel free to set your own preffered settings. 
+Feel free to set your own preffered settings.  
 
-## findx doesn't know your IP address  
+---
 
----  
-
-
-findx doesn't know or save your IP address, geographical location (country) is done before you search findx, and hidden for findx, with no option to resolve it. 
+### How can findx automacially select my language  
+Geographical location (country) is done before you search findx, and based on your browser language and geographical location. findx doesn't know or save your IP address. 
