@@ -1,18 +1,32 @@
-# How is my prefered search result language set?  
+# Set your language on findx  
 
-To show relevant results when you search, findx tries to guess what language you prefer to see results in. 
+You can select the language you want to use for menus and for search results.
 
-This is done by a combination of looking at what language your browsers is set to use and your geographical location.
+##Show findx buttons, messages and the rest of the interface in your language
+1) Go to the findx menu.
+2) Click settings.  
+3) Select **Web Site Language** 
+4) At the bottom of the page, **click Save**
+
+
+##Show search results in you language  
+This setting lets you pick what language to see search results in. To show relevant results when you search, findx tries to guess what language you prefer to see results in, but you can always choose another language.
+1) Go to the findx menu.
+2) Click settings.  
+3) Select **Search Result Language** 
+4) At the bottom of the page, **click Save**
+
+
 
 ***Example: You are in London, and prefers UK results.***  
 
-Your browser is set to English, but English results can be from all over the world. To help you get relevant search results findx use a service to translate your IP address to a country, UK.  
+Your browser is set to English, but English results can be from all over the world. To help you get relevant search results findx determines you are in the UK, and show UK results.  
 
-This way findx guess your prefers English results from UK and improves the result to match that combination.
 
-Feel free to set your own preffered settings.  
 
 ---
 
 ### How can findx automacially select my language  
-Geographical location (country) is done before you search findx, and based on your browser language and geographical location. findx doesn't know or save your IP address. 
+Geographical location (country) is determined before you search findx, by using a geo-lookup service based on your IP, and in combination with your browser language findx defaults the interface and results based on theese.   
+
+findx doesn't know or save your IP address, and can't relate it to you searches.
