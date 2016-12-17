@@ -1,6 +1,6 @@
 # Safe Search
 
-Safe search removes violent and content from your results. You can easily turn this feature on in the settings area.
+Safe search removes violent and adult content from your results. You can easily turn this feature on in the settings area.
 
 1. Click the options icon to open the sidebar.
 2. Click **Settings**.
