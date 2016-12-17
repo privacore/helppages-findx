@@ -4,7 +4,7 @@ Safe search removes violent and content from your results. You can easily turn t
 
 1. Click the options icon to open the sidebar.
 2. Click **Settings**.
-3. Next to **Safe Search**, slide the toggle button to the right.
+3. Next to **Safe Search**, click the toggle button to slide it to the right. The toggle will become blue, indicating that the feature is active.
 
-To disable Safe Search, slide the toggle button back to the left. 
+To disable Safe Search, click the toggle button again to slide it back to the left. 
  
