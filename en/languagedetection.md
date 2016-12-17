@@ -12,7 +12,7 @@ You can select the language you want to use for menus and search results.
 
 ### Show search results in you language  
 findx tries to guess what language you prefer to see results in, but you can also enter the language you want to use in the **Settings** area.  
-1. Click the options icon to open the sidebar.
+1. Click the options icon to open the sidebar.  
 2. Go to the **findx menu**.  
 3. Click **Settings**.  
 4. Next to **Search Results Language**, click the drop-down list to select from available languages.   
