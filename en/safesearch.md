@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Safe Search
 
 Safe search removes violent and adult content from your results. You can easily turn this feature on in the settings area.
