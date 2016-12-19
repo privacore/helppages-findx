@@ -1,4 +1,4 @@
-# Safe Search
+# Safe Search blocks explicit results on findx
 
 Safe search removes violent and content from your results. You can easily turn this feature on in the settings area.
 
