@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 # Safe Search
 
-Safe search removes violent and adult content from your results. You can easily turn this feature on in the settings area.
+Safe Search removes violent and adult content from your results. You can easily turn this feature on in the settings area.
 
-1. Click the options icon to open the sidebar.
+1. Click the **"triple bar" icon** to open the findx menu.
 2. Click **Settings**.
 3. Next to **Safe Search**, click the toggle button to slide it to the right. The toggle will become blue, indicating that the feature is active.
 
