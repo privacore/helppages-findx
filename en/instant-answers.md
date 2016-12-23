@@ -8,7 +8,7 @@ To enable Instant Answers:
 
 
 1. Open the findx menu.
-2. Click Settings.
+2. Click **Settings**.
 3. Next to Instant Answers, click the toggle button to slide it to the right. The toggle will become blue, indicating that the feature is active.
 4. At the bottom of the page, click Save and Exit.
 
