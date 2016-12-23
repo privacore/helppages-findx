@@ -6,7 +6,6 @@ This feature displays an "overview box" to the right of the search results list.
 
 To enable Instant Answers:
 
-
 1. Click the **"triple bar" icon** to open the findx menu.
 2. Click **Settings**.
 3. Next to **Instant Answers**, click the toggle button to slide it to the right. The toggle will become blue, indicating that the feature is active.
