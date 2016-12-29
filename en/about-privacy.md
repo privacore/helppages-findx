@@ -16,7 +16,7 @@ No one at findx will know what you searched for while using our site. However, w
 
 
 ## What information does findx collect?
-To provide you with a great experience, the service collects general data about aggregate use. For example, we store and analyze data on user click patterns as a whole, but we don’t collect data about your personal clicks. The services uses this information to provide “Did you mean?” suggestions, and to display advertisements. 
+To provide you with a great experience, the service collects general data about aggregate use. For example, we store and analyze data on click patterns as a whole, but we don’t collect data about your personal clicks. The services uses this information to provide “Did you mean?” suggestions, and to display advertisements. 
 
 
 ## Cookies
