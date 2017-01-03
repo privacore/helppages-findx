@@ -1,7 +1,7 @@
 # Does findx use an external map provider?
-The short answer is Yes
+Yes, findx uses an exteral map provider, or actual several. But this does not compromise your privacy.
 
-## The map
+## The map data
 Findx uses [OpenStreetMap](http://www.openstreetmap.org/) (OSM), a crowdsourced map of the world, for its map data. Similar to Wikipedia, anyone can [contribute to OpenStreetMap](https://help.findx.com/en/contribute-map).
 
 ## The look of findx maps
