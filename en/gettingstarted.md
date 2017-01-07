@@ -1,3 +1,3 @@
 #Getting started
 
-Request access to beta https://www.privacore.com/invite/
+[Request access to the beta of findx.com](https://www.privacore.com/invite/)
