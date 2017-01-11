@@ -7,7 +7,7 @@ In the search field, add eg. site:www.bild.de and you'll only get results from B
 
 | Phrase  | What it does | Example |
 | ------------- | ------------- | ------------- |
-| site: | Searches only the website you enter | [site:www.theguardian.co.uk jokes] (https://www.findx.dk/search?q=site%3Awww.theguardian.co.uk+jokes&type=web) |
+| site: | Searches only the website you enter | [site:www.theguardian.co.uk jokes](https://www.findx.dk/search?q=site%3Awww.theguardian.co.uk+jokes&type=web) |
 
 
 
