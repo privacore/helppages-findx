@@ -10,4 +10,4 @@ You can easily disable this feature in the settings area.
 2. Click **Settings**.
 3. Next to **Auto Suggest**, click the toggle button to slide it to the left. 
 
- 
+![Auto suggest](https://help.findx.com/_media/media/auto_suggest_-_findx_2017-01-17_10-22-14.png) 
