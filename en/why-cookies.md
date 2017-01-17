@@ -11,6 +11,6 @@ For example, the cookie will remember your language settings, whether you want t
 The settings cookies will be deleted after 90 days.
 
 Here is an example of a language cookie from findx:  
-![findx settings cookie example:](https://cloud.githubusercontent.com/assets/13692623/21605214/e43604ac-d1a7-11e6-87eb-a205be95f7b6.png)
+![findx settings cookie example:](https://help.findx.com/_media/en/cookie_control_-_findx_language_cookie.png)
 
 To learn more about findx and privacy, see the [Privacore Privacy Promise](https://www.privacore.com/privacy-promise/).
