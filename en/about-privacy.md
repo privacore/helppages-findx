@@ -1,6 +1,8 @@
 # About findx’s Privacy Policy
 Privacore is committed to protecting your security and privacy. The findx service doesn’t record your IP address, log your searches, or maintain a browser history. Privacore services do not share personally identifying information with anyone – we don’t even collect it.
 
+![Privacy policy](https://help.findx.com/_media/privacy-policy-privacore-findx.png)
+
 
 Our focus on privacy gives you the ability to:
 
