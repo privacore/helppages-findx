@@ -8,6 +8,7 @@ You can easily disable this feature in the settings area.
 
 1. Click the **"triple bar" icon** to open the findx menu.
 2. Click **Settings**.
-3. Next to **Auto Suggest**, click the toggle button to slide it to the left. 
+3. Next to **Auto Suggest**, click the toggle button to slide it to the left.
+4. Click **Save and exit**
 
 ![Auto suggest](https://help.findx.com/_media/media/auto_suggest.png) 
