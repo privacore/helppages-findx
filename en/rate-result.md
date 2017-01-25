@@ -1,0 +1,23 @@
+# Rate a Result
+
+You can help improve findx by rating search results. 
+
+
+To do this:
+
+
+1. Click on the **"thumbs up" icon** that appears to the far right of the result. Rating icons will appear.
+2. Click on the appropriate rating. 
+
+INSERT IMAGE HERE 
+
+From left to right, the icons represent: 
+1) Great
+2) Satisfactory
+3) Bad or not relevant
+4) Wrong language
+5) Page not found
+6) Not child safe
+7) Harmfull or deceptive 
+
+What happens after this?????????
