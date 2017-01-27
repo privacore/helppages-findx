@@ -20,4 +20,4 @@ From left to right, the icons represent:
 6) Not child safe
 7) Harmful or deceptive 
 
-What happens after this?????????
+Your rating will be anonymously logged and registered, and used to improve findx search results.
