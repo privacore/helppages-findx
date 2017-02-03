@@ -1,4 +1,4 @@
-# Visit Sites in New Tab
+# Visit sites in a new tab
 
 When this setting is activated, findx will open the search results you click on in a new tab or window. It is turned off by default. 
 
