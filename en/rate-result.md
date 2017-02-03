@@ -12,12 +12,12 @@ To do this:
 ![rating-scale](https://help.findx.com/_media/media/rating-scale.png) 
 
 From left to right, the icons represent: 
-1) Great
-2) Satisfactory
-3) Bad or not relevant
-4) Wrong language
-5) Page not found
-6) Not child safe
-7) Harmful or deceptive 
+1. Great
+2. Satisfactory
+3. Bad or not relevant
+4. Wrong language
+5. Page not found
+6. Not child safe
+7. Harmful or deceptive 
 
 Your rating will be anonymously logged and registered, and used to improve findx search results.
