@@ -6,7 +6,7 @@ You can navigate through your search results using keyboard shortcuts, instead o
 **To activate this setting:** 
 
 
-1. Click the **"triple bar" icon** to open the findx menu.
+1. Click the **menu icon** to open the findx menu.
 2. Click **Settings**.
 3. Next to **Keyboard Shortcuts**, click the toggle button to slide it to the right. The toggle will become blue, indicating that the feature is active.
 4. At the bottom of the page, click **Save and Exit**.
