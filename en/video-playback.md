@@ -18,7 +18,7 @@ There are three video playback options:
 To change the setting:
 
 
-1. Click the **"triple bar" icon** to open the findx menu.
+1. Click the **menu icon** to open the findx menu.
 2. Click **Settings**.
 3. Click the **Privacy** tab.
 4. Next to **Video Playback**, click on **Ask me** (the default) to open the drop-down menu and view all available actions. Select an action. 
