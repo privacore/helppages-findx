@@ -1,6 +1,6 @@
-# Rate a Result
+# Rate a result
 
-You can help improve findx by rating search results. 
+You can help improve findx by rating your search results. 
 
 
 To do this:
