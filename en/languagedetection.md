@@ -5,7 +5,7 @@ You can select the language you want to use for menus and search results.
 ### Show findx buttons, messages and the rest of the interface in your language
 
 
-1. Click the **"triple bar" icon** to open the findx menu.  
+1. Click the **menu icon** to open the findx menu.  
 2. Click **Settings**.  
 3. Next to **Web Site Language**, click the drop-down list to select from available languages.   
 4. At the bottom of the page, click **Save and Exit**.
@@ -16,7 +16,7 @@ You can select the language you want to use for menus and search results.
 findx tries to guess what language you prefer to see results in, but you can also enter the language you want to use in the **Settings** area.  
 
 
-1. Click the **"triple bar" icon** to open the findx menu.  
+1. Click the **menu icon** to open the findx menu.  
 2. Click **Settings**.  
 3. Next to **Search Results Language**, click the drop-down list to select from available languages.   
 4. At the bottom of the page, click **Save and Exit**.
