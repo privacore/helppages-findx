@@ -1,10 +1,10 @@
-# Make findx my homepage on my computer
-You can get to findx quickly whenever you open your browser by making findx your homepage.
+# Make findx your home page
+You can get to findx quickly whenever you open your browser by making findx your home page.
 
-## Change your homepage
+## Change your home page
 
 **Privafox** 
-Privafox is our privacy-oriented browser. To make findx the homepage for Privafox:
+Privafox is our privacy-oriented browser. To make findx the home page for Privafox:
 1. Open a tab with the web page you want to use as your home page.
 2. Drag and drop that tab onto the **home icon**.
  
@@ -19,7 +19,7 @@ More home page settings are available in the Preferences window.
 * You can also set multiple pages as your home page. To do this, open each page in a separate tab and click on **Use Current Pages**.
 
 
-Make findx (https://www.findx.com/) your homepage in other standard browsers:
+Make findx (https://www.findx.com/) your home page in other standard browsers:
 
 [Chrome](https://support.google.com/chrome/answer/95314?hl=en)
 [Internet Explorer](https://support.microsoft.com/en-us/help/17426/windows-internet-explorer-11-change-home-page)
