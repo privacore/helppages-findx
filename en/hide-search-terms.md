@@ -1,4 +1,4 @@
-# Hide Search Terms
+# Hide search terms
 
 You can tell findx not to share your search terms with the sites you click on.
 
