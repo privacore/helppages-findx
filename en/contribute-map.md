@@ -1,4 +1,4 @@
-# Contribute to the Map
+# Contribute to the map
 The findx map results page uses [OpenStreetMap](http://www.openstreetmap.org/) (OSM), a crowdsourced map of the world.  Similar to Wikipedia, anyone can contribute to the map. To date, more than three million people have registered as OSM contributors. 
 
 
