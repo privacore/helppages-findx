@@ -1,4 +1,4 @@
-# Improve a Result
+# Improve a result
 
 The information findx returns about a Web page is only as good as what the webmaster enters. At times, you may encounter very general page titles and descriptions that don't tell you much. You can help make findx better by improving the title and description for a result.
 
