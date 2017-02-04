@@ -1,4 +1,4 @@
-# Does findx Have a "Did You Mean..." Autocorrect Feature?
+# Does findx have a "Did you mean..." autocorrect feature?
 
 findx does not have a "Did you mean..." autocorrect feature at this time. 
 
