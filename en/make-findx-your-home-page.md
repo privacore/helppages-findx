@@ -8,7 +8,7 @@ Privafox is our privacy-oriented browser. To make findx the home page for Privaf
 1. Open a tab with the web page you want to use as your home page.
 2. Drag and drop that tab onto the **home icon**.
  
-  ![Drag the tab onto the home icon](https://help.findx.com/_media/media/set-homepage-privafox.png?t=1486155041&w=500&h=288&tok=8c3b6d) 
+  ![Drag the tab onto the home icon]() 
 
 3. Click **Yes** to confirm. 
  
