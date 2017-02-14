@@ -1,4 +1,4 @@
-# findx&#8212;A “real” search engine
+# findx - A “real” private search engine
 findx is a unique, privacy-focused search engine that respects your anonymity. Unlike other privacy-oriented sites, we built our search engine ourselves.
 
 ## Search engine basics
