@@ -11,6 +11,7 @@ In the search field, add eg. site:www.bild.de and you'll only get results from B
 
 
 
+##Quick searches:
 You can do quick private searches on findx by using exits:
 
 | !exit | Destination |
