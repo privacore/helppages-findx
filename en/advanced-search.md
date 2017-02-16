@@ -16,7 +16,7 @@ You can do quick private searches on findx by using exits:
 | !exit | Destination |
 | ------------- | ------------- | 
 | !w  | Web | 
-| !s  | Shoping | 
+| !s  | Shopping | 
 | !i  | Images | 
 | !m  | Maps | 
 | !v  | Video |
