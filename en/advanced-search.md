@@ -11,4 +11,13 @@ In the search field, add eg. site:www.bild.de and you'll only get results from B
 
 
 
-And there are more to come
+You can do quick private searches on findx by using exits:
+| !exit | Destination |
+| ------------- | ------------- | 
+| !w  | Web | 
+| !s  | Shoping | 
+| !i  | Images | 
+| !m  | Maps | 
+| !v  | Video |
+
+
