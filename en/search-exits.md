@@ -4,112 +4,125 @@ A search exit is a way to quickly exit findx and search other sources.
 Just type !x in the search field, and findx will forward you to that destination. It can be handy if you don't find what you look for, but also if you don't find anything at all.
 
 ##Search exits by category
-
-| Category | !exit | Destination |
-| ------------- | ------------- | ------------- |
-| Images | bi  |  Bing Images | 
-| Images | yi | Yahoo Images | 
-| Images | yai | Yandex Images |
-| ------------- | ------------- | ------------- |
-| Information Portals | q | Quora |
-| Information Portals | so | Stack overflow |
-| Information Portals | w | Wikipedia |
-| Information Portals | wcz | Wikipedia česká |
-| Information Portals | wdk | Wikipedia dansk |
-| Information Portals | wde | Wikipedia deutsch |
-| Information Portals | wet | Wikipedia eesti |
-| Information Portals | wen | Wikipedia english |
-| Information Portals | wes | Wikipedia español |
-| Information Portals | wfr | Wikipedia français |
-| Information Portals | wgl | Wikipedia galego |
-| Information Portals | whr | Wikipedia hrvatski |
-| Information Portals | wit | Wikipedia italiano |
-| Information Portals | wlv | Wikipedia Latvijas |
-| Information Portals | wlb | Wikipedia lëtzebuerger |
-| Information Portals | wlt | Wikipedia Lietuvos |
-| Information Portals | whu | Wikipedia magyar |
-| Information Portals | wmt | Wikipedia maltese |
-| Information Portals | wnl | Wikipedia nederlands |
-| Information Portals | wno | Wikipedia norsk |
-| Information Portals | wpl | Wikipedia polskie |
-| Information Portals | wpt | Wikipedia português |
-| Information Portals | wro | Wikipedia română |
-| Information Portals | wsl | Wikipedia slovenski |
-| Information Portals | wsk | Wikipedia slovenský |
-| Information Portals | wfi | Wikipedia suomalainen |
-| Information Portals | wsv | Wikipedia svensk |
-| Information Portals | wel | Wikipedia ελληνικά |
-| Information Portals | wbg | Wikipedia български |
-| ------------- | ------------- | ------------- |
-| Maps | bm | Bing Maps |
-| Maps | m | Findx Maps |
-| Maps | gm | Google Maps |
-| Maps | here | Here Maps |
-| Maps | ym | Yahoo Maps |
-| Maps | yam | Yandex Maps |
-| ------------- | ------------- | ------------- |
-| Search | bd | Baidu |
-| Search | b | Bing |
-| Search | y.de | Deutschland |
-| Search | ddg | DuckDuckGo |
-| Search | g | Google |
-| Search | gau | Google Australia |
-| Search | gbe | Google Belgien |
-| Search | gca | Google Canada |
-| Search | gcz | Google Česká republika |
-| Search | gcy | Google Cipru |
-| Search | gdk | Google Danmark |
-| Search | gde | Google Deutschland |
-| Search | gee | Google Eesti |
-| Search | ges | Google España |
-| Search | gfr | Google France |
-| Search | ghg | Google Hrvatska |
-| Search | gie | Google Ireland |
-| Search | git | Google Italia |
-| Search | glv | Google Latvija |
-| Search | glt | Google Lietuva |
-| Search | glu | Google Luxemburg |
-| Search | ghu | Google Magyarország |
-| Search | gmt | Google Malta |
-| Search | gnl | Google Nederland |
-| Search | gno | Google Norge |
-| Search | gat | Google Österreich |
-| Search | gpl | Google Polska |
-| Search | gpt | Google Portugal |
-| Search | gro | Google România |
-| Search | gch | Google Schweiz |
-| Search | gsi | Google Slovenija |
-| Search | gsk | Google Slovensko |
-| Search | gfi | Google Suomi |
-| Search | gse | Google Sverige |
-| Search | guk | Google UK |
-| Search | ggr | Google Ελλάδα |
-| Search | gbg | Google България |
-| Search | wolf | Wolfram Alpha |
-| Search | y | Yahoo |
-| Search | ya | Yandex |
-| ------------- | ------------- | ------------- |
-| Shopping | auk | Amazon.co.uk |
-| Shopping | a | Amazon.com |
-| Shopping | euk | Ebay.co.uk |
-| Shopping | e | Ebay.com |
-| Shopping | s | Findx Shopping |
-| ------------- | ------------- | ------------- |
-| Social | fb | Facebook |
-| Social | ins | Instagram |
-| Social | li | Linkedin |
-| Social | p | Pinterest |
-| Social | r | Reddit |
-| Social | t | Twitter |
-| ------------- | ------------- | ------------- |
-| Tools | who | Who.is |
-| ------------- | ------------- | ------------- |
-| Videos | bv | Bing Videos |
-| Videos | v | Findx Videos |
-| Videos | vi | Vimeo |
-| Videos | yav | Yandex Videos |
-| Videos | yt | Youtube |
-
-
-
-
+### Images
+| Exit | Destination |
+| ---- | ----------- |
+| bi | Bing Images |
+| f | Flickr |
+| i | findx Image Search |
+| yai | Yandex Images |
+| yi | Yahoo Images |
+### Information Portals
+| Exit | Destination |
+| ---- | ----------- |
+| q | Quora |
+| so | Stack overflow |
+| w | Wikipedia |
+| wbg | Wikipedia български |
+| wcz | Wikipedia česká |
+| wde | Wikipedia deutsch |
+| wdk | Wikipedia dansk |
+| wel | Wikipedia ελληνικά |
+| wen | Wikipedia english |
+| wes | Wikipedia español |
+| wet | Wikipedia eesti |
+| wfi | Wikipedia suomalainen |
+| wfr | Wikipedia français |
+| wgl | Wikipedia galego |
+| whr | Wikipedia hrvatski |
+| whu | Wikipedia magyar |
+| wit | Wikipedia italiano |
+| wlb | Wikipedia lëtzebuerger |
+| wlt | Wikipedia Lietuvos |
+| wlv | Wikipedia Latvijas |
+| wmt | Wikipedia maltese |
+| wnl | Wikipedia nederlands |
+| wno | Wikipedia norsk |
+| wpl | Wikipedia polskie |
+| wpt | Wikipedia português |
+| wro | Wikipedia română |
+| wsk | Wikipedia slovenský |
+| wsl | Wikipedia slovenski |
+| wsv | Wikipedia svensk |
+### Maps
+| Exit | Destination |
+| ---- | ----------- |
+| bm | Bing Maps |
+| gm | Google Maps |
+| here | Here Maps |
+| m | findx Maps |
+| osm | Open Street Map |
+| yam | Yandex Maps |
+| ym | Yahoo Maps |
+### Search
+| Exit | Destination |
+| ---- | ----------- |
+| b | Bing |
+| bd | Baidu |
+| ddg | DuckDuckGo |
+| g | Google |
+| gat | Google Österreich |
+| gau | Google Australia |
+| gbe | Google Belgien |
+| gbg | Google България |
+| gca | Google Canada |
+| gch | Google Schweiz |
+| gcy | Google Cipru |
+| gcz | Google Česká republika |
+| gde | Google Deutschland |
+| gdk | Google Danmark |
+| gee | Google Eesti |
+| ges | Google España |
+| gfi | Google Suomi |
+| gfr | Google France |
+| ggr | Google Ελλάδα |
+| ghg | Google Hrvatska |
+| ghu | Google Magyarország |
+| gie | Google Ireland |
+| git | Google Italia |
+| glt | Google Lietuva |
+| glu | Google Luxemburg |
+| glv | Google Latvija |
+| gmt | Google Malta |
+| gnl | Google Nederland |
+| gno | Google Norge |
+| gpl | Google Polska |
+| gpt | Google Portugal |
+| gro | Google România |
+| gse | Google Sverige |
+| gsi | Google Slovenija |
+| gsk | Google Slovensko |
+| guk | Google UK |
+| wolf | Wolfram Alpha |
+| y | Yahoo |
+| y.de | Deutschland |
+| ya | Yandex |
+### Shopping
+| Exit | Destination |
+| ---- | ----------- |
+| a | Amazon.com |
+| auk | Amazon.co.uk |
+| e | Ebay.com |
+| euk | Ebay.co.uk |
+| s | findx Shopping |
+### Social
+| Exit | Destination |
+| ---- | ----------- |
+| fb | Facebook |
+| ins | Instagram |
+| li | Linkedin |
+| p | Pinterest |
+| r | Reddit |
+| t | Twitter |
+### Tools
+| Exit | Destination |
+| ---- | ----------- |
+| who | Who.is |
+### Videos
+| Exit | Destination |
+| ---- | ----------- |
+| bv | Bing Videos |
+| v | findx Video Search |
+| vi | Vimeo |
+| yav | Yandex Videos |
+| yt | Youtube |
