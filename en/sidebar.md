@@ -1,2 +1,2 @@
-+{{indexmenu>.#1| context}}  
+{{indexmenu>:}}
 +{{indexmenu>.#1|skipfile=/:(sidebar)$/ context}}
