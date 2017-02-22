@@ -5,8 +5,8 @@ Giving feedback is a completely optional and personal choice, and given that is 
 Your feedback will overtime help improve the search experience.
 
 #Feedback options  
-[How to improve the title or description of a single result ](https://help.findx.com/en/improve-result)
-[How to rate a result using emoticons](https://help.findx.com/en/rate-result)
+[How to improve the title or description of a single result ](https://help.findx.com/en/improvesearch/improve-result)  
+[How to rate a result using emoticons](https://help.findx.com/en/improvesearch/rate-result)
 
 
 **Note:** At the moment your input won’t directly influence the ranking of any single result, but it will be recorded and handled accorindg to the process for improving search in findx.
