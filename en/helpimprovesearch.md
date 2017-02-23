@@ -4,7 +4,7 @@ Giving feedback is a completely optional and personal choice, and given that is 
 
 Your feedback will overtime help improve the search experience.
 
-#Feedback options  
+##How to give feedback  
 [How to improve the title or description of a single result ](https://help.findx.com/en/improvesearch/improve-result)  
 [How to rate a result using emoticons](https://help.findx.com/en/improvesearch/rate-result)
 
