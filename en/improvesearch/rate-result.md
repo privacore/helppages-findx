@@ -21,3 +21,7 @@ From left to right, the icons represent:
 7. Harmful or deceptive 
 
 Your rating will be anonymously logged and registered, and used to improve findx search results.
+
+[Read more about Quality rating and Improving results][134a6359] 
+
+  [134a6359]: https://www.privacore.com/findx/improve-search-results/#features "Improve search results"
