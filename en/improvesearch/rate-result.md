@@ -9,7 +9,7 @@ To do this:
 1. Click on the **"thumbs up" icon** that appears to the far right of the result. Rating icons will appear.
 2. Click on the appropriate rating. 
 
-![rating-scale](https://help.findx.com/_media/media/rating-scale.png) 
+![rating-scale](https://www.privacore.com/wp-content/uploads/2017/03/Quality-rate-search-result-findx-.png) 
 
 From left to right, the icons represent: 
 1. Great
