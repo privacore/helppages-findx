@@ -1,2 +1,6 @@
 # help-findxpages
-Help pages for findx - the independent ad private search engine from Europe
+Help pages for the findx search engine.
+
+Language version can be placed on folders. Right now one English version is available.
+
+Everyone is free to propose edits.
