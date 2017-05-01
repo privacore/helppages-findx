@@ -12,7 +12,7 @@ This also means that your search results are not ranked based on what you have c
 
 What you see is what everyone sees - findx's ranking algorithm is not biased. 
 
-[!Findx feature - improve search results](http://www.privacore.com/wp-content/uploads/2017/03/Quality-rate-search-result-findx.png)
+![Findx feature - improve search results](http://www.privacore.com/wp-content/uploads/2017/03/Quality-rate-search-result-findx.png)
 
 ## Features of findx 
 
