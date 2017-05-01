@@ -1,6 +1,6 @@
 # help-findxpages
-Help pages for the findx search engine.
+Help pages for the findx private search engine.
 
-Language version can be placed on folders. Right now one English version is available.
+Language versions can be placed in folders. Right now an English version of the help is available.
 
 Everyone is free to propose edits.
