@@ -18,12 +18,12 @@ What you see is what everyone sees - findx's ranking algorithm is not biased.
 
 There are several features that help you get more out of findx than simply searching the web in private. 
 
-- [Improve search results](helpimprovesearch.md): Collaborate with your fellow searchers and contribute your feedback to improve search results for everyone.
-- [Shopping search](shopping.md): Search for gifts in private, without worrying that your intended recipient will see ads related to your search!
-- [Private route planning](maps.md): Keep details of your planned routes to yourself using our private map search feature.
+- [Improve search results](helpimprovesearch): Collaborate with your fellow searchers and contribute your feedback to improve search results for everyone.
+- [Shopping search](shopping): Search for gifts in private, without worrying that your intended recipient will see ads related to your search!
+- [Private route planning](maps): Keep details of your planned routes to yourself using our private map search feature.
 - [Image search](image-index.md): Findx searches popular image services which have quality moderation, so you know the images that you (and your children) see are safe.
-- [Video search](video-playback.md): You can search for videos and browse results in private. To ensure the highest level of privacy, use findx with our private browser Privafox.
-- [Safe search](safesearch.md): Make sure you protect your children and filter out sites that contain 'adult' content. 
+- [Video search](video-playback): You can search for videos and browse results in private. To ensure the highest level of privacy, use findx with our private browser Privafox.
+- [Safe search](safesearch): Make sure you protect your children and filter out sites that contain 'adult' content. 
 
 Read more about all of the findx features at: [https://www.privacore.com/findx/features](https://www.privacore.com/findx/features)
 
@@ -31,16 +31,16 @@ Read more about all of the findx features at: [https://www.privacore.com/findx/f
 
 Do you want to make using findx easier?
 
-- Make findx your default home page [in your browser](findx-homepage.md) or [on your phone](findx-homepage-phone).
-- [Set your language on findx](languagedetection.md).
-- Do you prefer a new tab to open when you click on a result? [Change this setting to visit sites in a new tab](new-tab.md).
-- Don't like auto-suggest? You can easily [turn auto-suggest off](auto-suggest.md).
+- Make findx your default home page [in your browser](findx-homepage) or [on your phone](findx-homepage-phone).
+- [Set your language on findx](languagedetection).
+- Do you prefer a new tab to open when you click on a result? [Change this setting to visit sites in a new tab](new-tab).
+- Don't like auto-suggest? You can easily [turn auto-suggest off](auto-suggest).
 
 ## Level up your searching
 
-- Use these [keyboard shortcuts](keyboard-shortcuts.md) to navigate through the search results without a mouse.
-- These [search operators](advanced-search.md) are supported by findx, and more will be added over time.
-- [Search exits](search-exits.md) let you jump to another source and perform the same search there.
+- Use these [keyboard shortcuts](keyboard-shortcuts) to navigate through the search results without a mouse.
+- These [search operators](advanced-search) are supported by findx, and more will be added over time.
+- [Search exits](search-exits) let you jump to another source and perform the same search there.
 
 # Let us know what you like or dislike about findx
 
