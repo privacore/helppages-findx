@@ -1,4 +1,4 @@
-# Top level domain handling
+# Which top level domains does findx index?
 The index of findx excludes a selected list of domains. This is done to limit the size of the index, and to focus the effort in order to create a high quality index faster.
 All top level domains that are not on this list are included in the index.
 
