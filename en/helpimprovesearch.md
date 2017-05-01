@@ -6,6 +6,8 @@ Rating results and suggesting improvements is completely optional and a personal
 
 Your feedback will help improve the search experience for everyone.
 
+[Read more about improving search results here](https://www.privacore.com/findx/improve-search-results/#features)
+
 # How to give feedback
 
 [How to improve the title or description of a single result ](https://help.findx.com/en/improvesearch/improve-result)  
