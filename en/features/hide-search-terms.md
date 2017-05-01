@@ -1,6 +1,6 @@
 # Hide search terms
 
-You can tell findx not to share your search terms with the sites you click on.
+You can tell findx not to share or not to share your search terms with the sites you vist from the results page.
 
 
 To activate this setting:
