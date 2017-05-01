@@ -34,6 +34,7 @@ Do you want to make using findx easier?
 - Make findx your default home page [in your browser](findx-homepage.md) or [on your phone](findx-homepage-phone).
 - [Set your language on findx](languagedetection.md).
 - Do you prefer a new tab to open when you click on a result? [Change this setting to visit sites in a new tab](new-tab.md).
+- Don't like auto-suggest? You can easily [turn auto-suggest off](auto-suggest.md).
 
 ## Level up your searching
 
