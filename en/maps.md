@@ -1,4 +1,4 @@
-#Maps search
+# Maps search
 
 [Route planning](/maps/route-planning)
 
