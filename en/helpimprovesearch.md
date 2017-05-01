@@ -1,22 +1,26 @@
-#Help improve search results
-Findx have improve and rating results on every single search results, this gives you the possiblity to easily imprve search.
-Giving feedback is a completely optional and personal choice, and given that is is private. 
+# Help improve search results
 
-Your feedback will overtime help improve the search experience.
+Findx lets you suggest improvements and rate each search result. Become a quality rater and help improve the search results not only for yourself, but for all searchers.
 
-#How to give feedback
+Rating results and suggesting improvements is completely optional and a personal choice, and you can do so in private - we do not track you, so we don't know who has rated, suggested changes to, or reported a search result. 
+
+Your feedback will help improve the search experience for everyone.
+
+# How to give feedback
 
 [How to improve the title or description of a single result ](https://help.findx.com/en/improvesearch/improve-result)  
 [How to rate a result using emoticons](https://help.findx.com/en/improvesearch/rate-result)
 
 ---
 
-**Note:** At the moment your input won’t directly influence the ranking of any single result, but it will be recorded and handled according to the process for improving search in findx.  
+**Note:** Our moderators will take a look at all submissions, so this feature can not be abused.  
 
 ---
 
-##For what pupose do we need your feedback
-Findx is a private search engine, and to to keep serving the most relevant results we need to constantly improve and evolve the software and algorithms behind findx. This will in the long run improve private search for everyone.
+## Why do we need your help?
+Findx is an independent private search engine, and to to keep serving the most relevant results we need to constantly improve and evolve the software and algorithms behind findx. This will improve private search for everyone over time.
 
-##For people with technical understading
-findx is an Open Source project, and you can participate in improving the source code development on github
+We believe that asking you to contribute is the most natural way to improve the search results. You can easily say whether you like the result, whether it is spam or even malicious, and add details to improve poor or missing descriptions.
+
+##For people with technical understanding
+findx is an Open Source project, and you can participate in improving the source code development here on github.
