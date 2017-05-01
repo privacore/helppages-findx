@@ -4,7 +4,7 @@ With route planning on findx you can search for routes and destinations without 
 
 It is private route planning.
 
-1. Click the **maps tab** to open the findx map. - use !m after your search term eg: "Copenhagen !m!
+1. Click the **maps tab** to open the findx map. - use !m after your search term eg: "Copenhagen !m"
 2. Next to the location click the **Directions button**. 
 3. Type in the destination and slect it in the dropdown.
 
