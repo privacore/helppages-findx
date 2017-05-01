@@ -5,7 +5,7 @@ Sign up for beta access on
 
 **findx lets you:**
 
-- Search the web in private, without collecting data about you
+- Search the web in private, without collecting data about you online activities
 - Search for products, images and videos in private
 - Find locations and plan routes in private  
 
