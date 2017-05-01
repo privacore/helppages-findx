@@ -19,7 +19,7 @@ More home page settings are available in the Preferences window.
 * You can also set multiple pages as your home page. To do this, open each page in a separate tab and click on **Use Current Pages**.
 
 
-Make findx (https://www.findx.com/) your home page in other standard browsers:
+##Make findx (https://www.findx.com/) your home page in other standard browsers:
 
 [Chrome](https://support.google.com/chrome/answer/95314?hl=en)  
 [Internet Explorer](https://support.microsoft.com/en-us/help/17426/windows-internet-explorer-11-change-home-page)  
