@@ -1,16 +1,17 @@
-#Help is on its way
+#Findx online help
 
-Don't want to wait - sign up for beta access on 
+Sign up for beta access on 
 [privacore.com/invite](https://www.privacore.com/invite/)
 
-**findx will let you:**
+**findx lets you:**
 
-- Search the web without collecting data about you
-- Find places and make route plans in private  
+- Search the web in private, without collecting data about you
+- Search for products, images and videos in private
+- Find locations and plan routes in private  
 
 **findx does not:**
 
-- Profile your behaviour by collecting IP addresses and device information
+- Profile your behaviour by collecting IP addresses or device information
 - Know what you did last summer
 
 ##Spread the word  
@@ -19,6 +20,6 @@ Invite your friends to the closed beta.
 [Share on twitter](https://twitter.com/intent/tweet?text=Join+findx+beta+-+Get+lucky+and+be+one+of+the+first+to+access+before+launch+%23privacy+%26+%23search+%40findx&url=https://www.privacore.com/invite/)
 
 
-##Get new friends 
-You can also join the community to get some new friends 
+##Join the discussion 
+You can also join the community, give feedback and learn more about online privacy 
 [forum.privacore.com](https://forum.privacore.com/)
