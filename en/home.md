@@ -20,6 +20,6 @@ Invite your friends to the closed beta.
 [Share on twitter](https://twitter.com/intent/tweet?text=Join+findx+beta+-+Get+lucky+and+be+one+of+the+first+to+access+before+launch+%23privacy+%26+%23search+%40findx&url=https://www.privacore.com/invite/)
 
 
-##Join the discussion 
+##Join the conversation 
 You can also join the community, give feedback and learn more about online privacy 
 [forum.privacore.com](https://forum.privacore.com/)
