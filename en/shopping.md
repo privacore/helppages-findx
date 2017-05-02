@@ -1,4 +1,4 @@
-# How does shopping work?
+# Shopping search?
 To shop with findx:
  
 1. Search for the product you’re interested in.
