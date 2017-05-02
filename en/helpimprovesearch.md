@@ -17,7 +17,7 @@ Your feedback will help improve the search experience for everyone.
 
 ---
 
-**Note:** Our moderators will take a look at all submissions, so this feature can not be abused.  
+**Note:** Moderators will take a look at all submissions, so this feature can not be abused.  
 
 ---
 
