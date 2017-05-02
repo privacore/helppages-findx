@@ -1,5 +1,11 @@
 # Maps search
 
+Find destinations and get turn-by-turn route planning on findx
+
+![Route planning](https://help.findx.com/_media/en/route-planning.gif) 
+
+## Map features
+
 [Route planning](/maps/route-planning)
 
 [Map providers](https://help.findx.com/en/maps/map-provider)
