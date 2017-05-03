@@ -1,7 +1,5 @@
 #Findx online help
 
-Sign up for beta access on 
-[privacore.com/invite](https://www.privacore.com/invite/)
 
 **findx lets you:**
 
