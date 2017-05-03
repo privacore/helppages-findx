@@ -1,8 +1,8 @@
 #What is findx public beta?
 Beta means that you will experience findx while it's being built. The Privacore team knows there is a lot of work to do before we are ready for a final release, but we want to let users follow our progress while we are building the new real internet search engine from Europe.  
 
-##What can I expect as a beta user?
-findx is not fully developed, so you can't yet be sure of finding what you are looking for. 
+##What can I expect from the beta version?
+findx is not fully developed, so you can't yet be sure of finding everything you are looking for, but we are growing the index rapidly. 
 
 ###Missing search results
 You might be wondering, for example:  
