@@ -1,7 +1,5 @@
 # Getting started
 
-[Request access to the beta of findx.com](https://www.privacore.com/invite/)
-
 You can use findx just as you would a normal search engine: Type in your search query and press Enter. 
 
 Findx will search its own index for results. Be aware that because findx is a new search engine, you may not see as accurate or relevant results as you would on a big search engine. The index is growing every day, so you will see results improve over time. 
