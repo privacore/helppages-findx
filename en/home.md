@@ -15,7 +15,7 @@
 ##Spread the word  
 Invite your friends to the use findx.
 ![findx closed beta access](https://www.privacore.com/wp-content/uploads/2016/09/login-to-closed-beta-access-to-findx.png)
-[Share on twitter](https://twitter.com/intent/tweet?text=Join+findx+beta+-+Get+lucky+and+be+one+of+the+first+to+access+before+launch+%23privacy+%26+%23search+%40findx&url=https://www.privacore.com/invite/)
+[Share on twitter](https://twitter.com/intent/tweet?text=Try+searching+in+ private+%23privacy+%26+%23search+%40findx&url=https://www.privacore.com/invite/)
 
 
 ##Join the conversation 
