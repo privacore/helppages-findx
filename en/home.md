@@ -12,10 +12,10 @@
 - Profile your behaviour by collecting IP addresses or device information
 - Know what you did last summer
 
-##Spread the word  
-Invite your friends to the use findx.
-![findx closed beta access](https://www.privacore.com/wp-content/uploads/2016/09/login-to-closed-beta-access-to-findx.png)
-[Share on twitter](https://twitter.com/intent/tweet?text=Try+searching+in+ private+%23privacy+%26+%23search+%40findx&url=https://www.privacore.com/invite/)
+##Try findx now 
+Findx is in public beta, and you can try searching in private now.
+![findx public beta](https://www.privacore.com/wp-content/uploads/2017/03/MAIL_findx-confirm_mail-880x440.png)
+
 
 
 ##Join the conversation 
