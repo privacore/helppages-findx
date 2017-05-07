@@ -8,8 +8,8 @@ Find destinations and get turn-by-turn route planning on findx
 
 [Route planning](/en/maps/map-provider)
 
-[Map providers](https://help.findx.com/en/maps/map-provider)
+[Map providers](/en/maps/map-provider)
 
-[Contribute to the map](https://help.findx.com/en/maps/contribute-map)
+[Contribute to the map](/en/maps/contribute-map)
 
 Changing the units from km to miles 
