@@ -3,7 +3,7 @@ You can get to findx quickly whenever you open your browser by making findx your
 
 ## Change your home page
 
-**Privafox** 
+### If you use Privafox  
 Privafox is our privacy-oriented browser. To make findx the home page for Privafox:  
 1. Open a tab with the web page you want to use as your home page.  
 2. Drag and drop that tab onto the **home icon**.
