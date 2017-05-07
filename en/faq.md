@@ -8,4 +8,5 @@
 Findx more questions and answers, and ask questions yourself in the findx forum
 [Ask a question to the findx community]/https://forum.privacore.com/index.php?p=/categories/findx-private)
 
+![Findx community](https://forum.privacore.com/themes/privacore/images/findx-large.png) 
 
