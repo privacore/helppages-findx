@@ -1,14 +1,22 @@
 # Not allowed to index
 
-Transparency is key to building the findx search engine, and so are relevant results. We have initiated our spiders to crawl the web and collect web pages to create a high quality index. This naturally includes results from wellknown webistes as Yelp and Quora to be found on findx. Unfortunately we have a reply from some websites that the findxbot will not be allowed to index their websites.
-We will keep a list of the requests we make, and the result of our requests.
+Transparency is key to building the findx search engine, and so are relevant results. Our crawlers are trawling the web, collecting web pages in order to create a high quality index. This naturally includes results from well known sites such as Yelp and Quora. 
 
+Many of these bigger sites only allows certain sites like Google and Bing to index their sites by default. We have manually requested permission to include their pages on findx, in order to let our users find their sites and subsequently visit them.
+
+Unfortunately some sites will not let us index their pages, although they allow our competitors to do so. 
+
+We will be fully transparent about this, and below we list the sites we have specifically requested permission to spider (because their robots.txt disallows it by default), and their response.
+
+We will manually add the the main URL sites we are not allowed to crawl to findx, with a note telling you that we have been denied permission to spider the site. Try a search for Yelp or Quora on findx to see how it looks.
 
 | Domain | Top Level Domain | Robots.txt | 
 | ---- | ---- | ---- | 
-| Yelp.com | Denied | [Link](https://www.yelp.com/robots.txt) |   
-| Quora.com | Denied | [Link](https://www.quora.com/robots.txt) | 
-| Github.com | Pending | [Link](https://github.com/robots.txt) | 
+| Yelp.com | Denied | [Link] (https://www.yelp.com/robots.txt) |   
+| Quora.com | Denied | [Link] (https://www.quora.com/robots.txt) | 
+| Github.com | Pending | [Link] (https://github.com/robots.txt) | 
+| Facebook.com | Pending | [Link] (https://www.facebook.com/robots.txt) | 
+| Linkedin.com | Pending | [Link] (https://www.linkedin.com/robots.txt) | 
 
 
 
