@@ -8,7 +8,8 @@ Unfortunately some sites will not let us index their pages, although they allow 
 
 We will be fully transparent about this, and below we list the sites we have specifically requested permission to spider (because their robots.txt disallows it by default), and their response.
 
-We will manually add the the main URL sites we are not allowed to crawl to findx, with a note telling you that we have been denied permission to spider the site. Try a search for Yelp or Quora on findx to see how it looks.
+We will manually add the links to the main pages of sites we are not allowed to crawl, with a note telling our users that we have been specifically denied permission to spider the site. Try a search for Yelp or Quora on findx to see how it looks.
+
 
 | Domain | Top Level Domain | Robots.txt | 
 | ---- | ---- | ---- | 
