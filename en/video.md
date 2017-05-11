@@ -2,9 +2,9 @@
 
 Searching for Videos on findx will give you results from popular video services, at the moment Youtube is the only source for video search.
 
-[How to set video playback options](/features/video-playback)
+[How to set video playback options](en/features/video-playback)
 
-[Why does findx use YouTube videos?](/faq/why-youtube) 
+[Why does findx use YouTube videos?](en/faq/why-youtube) 
 
 
 
