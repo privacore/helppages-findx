@@ -13,11 +13,11 @@ We will manually add the links to the main pages of sites we are not allowed to 
 
 | Domain | Top Level Domain | Robots.txt | 
 | ---- | ---- | ---- | 
-| Yelp.com | Denied | [Link] (https://www.yelp.com/robots.txt) |   
-| Quora.com | Denied | [Link] (https://www.quora.com/robots.txt) | 
-| Github.com | Pending | [Link] (https://github.com/robots.txt) | 
-| Facebook.com | Pending | [Link] (https://www.facebook.com/robots.txt) | 
-| Linkedin.com | Pending | [Link] (https://www.linkedin.com/robots.txt) | 
+| Yelp.com | Denied | [Link](https://www.yelp.com/robots.txt) |   
+| Quora.com | Denied | [Link](https://www.quora.com/robots.txt) | 
+| Github.com | Pending | [Link](https://github.com/robots.txt) | 
+| Facebook.com | Pending | [Link](https://www.facebook.com/robots.txt) | 
+| Linkedin.com | Pending | [Link](https://www.linkedin.com/robots.txt) | 
 
 
 
