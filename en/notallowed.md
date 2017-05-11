@@ -2,7 +2,7 @@
 
 Transparency is key to building the findx search engine, and so are relevant results. Our crawlers are trawling the web, collecting web pages in order to create a high quality index. This naturally includes results from well known sites such as Yelp and Quora. 
 
-By default, many of these bigger sites only allow certain companies like Google and Bing to index their pages. We have manually requested permission to include their pages on findx, in order to let our users find their sites and subsequently visit them.
+By default, many of these bigger sites only allow certain companies like Google and Bing to index their pages. We have explicitly requested permission to include their pages on findx, in order to let our users find their sites and subsequently visit them.
 
 Unfortunately some sites will not let us index their pages, although they allow our competitors to do so. 
 
