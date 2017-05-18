@@ -1,4 +1,4 @@
-# USe findx in Firefox
+# Use findx in Firefox
 You can easily make findx our deafult search engine in Firefox.
 
 ## Add findx as a search engine
