@@ -6,7 +6,7 @@
 - [Instant Answers - Not yet implemented](/en/features/instant-answers)
 - [Keyboard Shortcuts](/en/features/keyboard-shortcuts)
 - [Set your language on findx](/en/features/languagedetection)  
-- [Qualityrating](/en/features/qualityrating)
+- [Qualityrating](/en/improvesearch/rate-result)
 - [Safe Search](/en/features/safesearch)
 - [Video Playback](/en/features/video-playback)
 
