@@ -12,6 +12,8 @@ What you see is what everyone sees - findx's ranking algorithm is not biased.
 
 ![Findx feature - improve search results](https://help.findx.com/_media/findx_as_startpage_animation.gif)
 
+[Make findx my default search engine in Firefox](/en/findxinfirefox)
+
 ## Features of findx 
 
 There are several features that help you get more out of findx than simply searching the web in private. 
@@ -36,8 +38,6 @@ Do you want to make using findx easier?
 
 ## Level up your searching
 
-- Use these [keyboard shortcuts](keyboard-shortcuts) to navigate through the search results without a mouse.
-- These [search operators](advanced-search) are supported by findx, and more will be added over time.
 - [Search exits](search-exits) let you jump to another source and perform the same search there.
 
 # Let us know what you like or dislike about findx
