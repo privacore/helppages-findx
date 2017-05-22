@@ -3,12 +3,14 @@ We've based our earnings on a well known model, of displaying ads related to the
 _Example_: When you search for Tennis, we can show you an ad for a pair of tennis shoes - no need to know your previous searches for that.
 
 ## Contextual ads from partners
-We never disclose your IP address or other information that can identify you to our partners. We only let them see the search term, your geographical region (country/state) and language. If you click the ad, you are of course in their hands (and so is your IP address), but you search in complete privacy until you click.  
+We never disclose your IP address or other information that can identify you to our partners. We only let them see the search term, your geographical region (country/state) and language. If you click the ad, you are of course in their hands (and so is your IP address), but you search in complete privacy until you click.   
 ![Advertisement on findx, marked ad](https://help.findx.com/_media/en/ad.png)  
+Current provider: Yieldkit
 
 ## Affiliate deals
 We are affiliates of some of the larger online shops, and may attach our affiliate ID to the links you see in our search results (clearly marked with a green "Aff" icon). If you decide to buy something from our partner’s site, we get a small commission that helps us to continue providing our services to you. We do not receive any information about what you buy.  
-![Affiliate result on findx, marked aff](https://help.findx.com/_media/en/aff.png) 
+![Affiliate result on findx, marked aff](https://help.findx.com/_media/en/aff.png)  
+Current affiliates: ebay and Amazon
 
 
 ## Other opportunities
