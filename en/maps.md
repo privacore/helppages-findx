@@ -6,7 +6,7 @@ Find destinations and get turn-by-turn route planning on findx
 
 ## Map features
 
-[Route planning](/en/maps/map-provider)
+[Route planning](/en/maps/route-planning)
 
 [Map providers](/en/maps/map-provider)
 
