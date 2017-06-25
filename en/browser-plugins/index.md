@@ -11,8 +11,6 @@ To add findx as the default search engine:
   
 {{url>https://player.vimeo.com/external/222816264.hd.mp4?s=9d21d0043294592c1f0ab67388beacdec546b5e0&profile_id=174; 80%,height property1 property2 alignment|Firefox private search plugin - findx}}
 
-{{url>https://player.vimeo.com/external/163235550.hd.mp4?s=21b4fad34048bcbfbcce2396ad0306f7bddb5000&profile_id=174; 80%,height property1 property2 alignment|This is Yucky}}
-
 Now your have [changed the default search engine in Firefox](https://www.findx.com) to findx, and you can search by typing in the address bar and search field.
 
 ## Private search add-on for Chrome  
