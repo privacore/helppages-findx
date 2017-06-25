@@ -1,4 +1,4 @@
-# Change search engine in your browser
+# How to change search engine in the browser
 You can easily make findx the deafult search engine in most used browsers. This can be done by installing an [add-on for Firefox](https://addons.mozilla.org/) or a plugin from the [Chrome web store](https://chrome.google.com/webstore/)
 
 ## Private search add-on for Firefox
