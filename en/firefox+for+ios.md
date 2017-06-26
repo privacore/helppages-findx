@@ -1,4 +1,4 @@
-# HOw to use findx as default search engine on iPhone 
+# How to use findx as default search engine on iPhone 
 You can easily make findx our default search engine in Firefox for iOS
 
 ## Add findx as a search engine in Firefox for iOS
