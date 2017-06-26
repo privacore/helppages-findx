@@ -21,7 +21,7 @@ Now you can search on findx by typing in the address bar.
 To add findx as a search engine via the settings menu:  
 1. Open **Settings** and go to **Search**
 2. Tap **Add search engine** at the bottom.
-3. In **Title" type **Findx**  
+3. In **Title** type **Findx**  
 4. In **URL** type **https://www.findx.com/search?q=%**  the search engine icon above the keyboard **search bar**.
 
 **Note: Findx private search engine will be available as a native app for iOS during 2017
