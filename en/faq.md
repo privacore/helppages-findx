@@ -1,7 +1,7 @@
 # FAQ - Frequently asked Questions  
 
 - [How do I make findx my default search engine?](/en/findxinfirefox)
-- [Does findx have a "Did you mean..." autocorrect feature?](/en/faq/did-you-mean)
+- [Does findx have a "Did you mean..." autocorrect feature?](/en/features/did-you-mean)
 - [Does findx index images?](/en/faq/image-index)
 - [Why does findx use YouTube videos?](/en/faq/why-youtube)
 - [How does findx earn money?](/en/faq/monetisation)
