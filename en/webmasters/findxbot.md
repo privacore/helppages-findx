@@ -13,10 +13,10 @@ If our bot has visited your servers - don't worry your site is not under attack,
 | IP address | 77.66.120.33 | 
 | IP address | 188.176.48.254 |  
 
-| Robots.txt string | Supported | 
-| ---- | ---- | ---- | 
-| Allow | Yes |    
-| Disallow | Yes |
+| Robots.txt string | Supported |  
+| ---- | ---- | ---- |  
+| Allow | Yes |  
+| Disallow | Yes |  
 | Crawl-delay | Yes |
 
 #### Allow findxbot (example)  
