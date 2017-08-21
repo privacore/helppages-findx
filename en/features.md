@@ -1,12 +1,35 @@
-# Features
+# Search categories
+- [Web search](/en/websearch)
+- [Maps](/en/maps)
+- [Video](/en/features/video)
+- [Images](/en/features/images)
+- [Shopping](/en/features/shopping)  
 
-- [Auto Suggest](/en/features/auto-suggest)
-- [Hide search terms](/en/features/hide-search-terms)
-- [Instant Answers - Not yet implemented](/en/features/instant-answers)
-- [Keyboard Shortcuts](/en/features/keyboard-shortcuts)
-- [Set your language on findx](/en/features/languagedetection)  
+## Search features  
+- [Search exits](/en/search-exits)
+- [Advanced search features](/en/features/advanced-search)
+- [Keyboard Shortcuts](/en/features/keyboard-shortcuts)  
+
+## Quick searches:
+You can do quick private searches on Findx by using the exits feature:
+
+| !exit | Destination |
+| ------------- | ------------- | 
+| !w  | Web | 
+| !s  | Shopping | 
+| !i  | Images | 
+| !m  | Maps | 
+| !v  | Video |
+
+### Settings
+
+- [Auto Suggest](/en/settings/auto-suggest)
+- [Hide search terms](/en/settings/hide-search-terms)
+- [Instant Answers - Not yet implemented](/en/settings/instant-answers)
+- [Keyboard Shortcuts](/en/settings/keyboard-shortcuts)
+- [Set your language on Findx](/en/settings/languagedetection)  
 - [Qualityrating](/en/improvesearch/rate-result)
-- [Safe Search](/en/features/safesearch)
-- [Video Playback](/en/features/video-playback)
+- [Safe Search](/en/settings/safesearch)
+- [Video Playback](/en/settings/video-playback)
 
 
