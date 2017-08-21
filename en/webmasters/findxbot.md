@@ -26,8 +26,7 @@ If our bot has visited your servers - don't worry your site is not under attack,
 
 #### Allow findxbot (example)  
 User-agent: Findxbot  
-Disallow: /wp-admin/  
-Allow: /wp-admin/admin-ajax.php
+Aallow: /  
 
 
 ### Don't want your website in our new search engine?  
