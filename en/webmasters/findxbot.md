@@ -1,6 +1,4 @@
 # Findxbot - information
-Findx is a new search engine from Europe. Our goal is to create a truly independent search engine, that let's people find information, in private.
-
 If our bot has visited your servers - don't worry your site is not under attack, our servers are just working hard to include your site in the index. This way people will be able to find your site with Findx.
 
 ## Findxbot - user-agent information 
