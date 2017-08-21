@@ -1,6 +1,5 @@
 # Does findx have a "Did you mean..." autocorrect feature?
 
-findx does not have a "Did you mean..." autocorrect feature at this time. 
+Findx does have a "Did you mean..." autocorrect feature. It was implemented July 2017. 
 
-However, you can turn on the [Auto Suggest](https://help.findx.com/en/features/auto-suggest) feature to choose from suggestions that appear in a drop-down list as you type. 
-
+Due to the high demand from the eople using Findx, we've decide to take a shortcut. With limited time and ressources to build our own we've implemented the Bing outorrect feature. Findx still keeps searches private, and doesn't collect or share personal information with thirdparties. 
