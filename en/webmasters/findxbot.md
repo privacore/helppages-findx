@@ -14,11 +14,17 @@ If our bot has visited your servers - don't worry your site is not under attack,
 | IP address | 188.176.48.254 |  
   
 ### Robots.txt support
-| Robots.txt string | Supported |  
+| Robots.txt directive | Supported |  
 | ---- | ---- |  
 | Allow | Yes |  
 | Disallow | Yes |  
-| Crawl-delay | Yes |
+| Crawl-delay | Yes |  
+| Host | No |  
+| Clean-param | No |  
+| Request-rate | No |  
+| Visit-time | No |  
+| Indexpage | No |  
+| Sitemap | No |
 
 #### Allow findxbot (example)  
 User-agent: Findxbot  
