@@ -33,4 +33,4 @@ if you don't want your pages indexed by us, then please use robots.txt or block 
 User-agent: *  
 Disallow: /
 
-We've opened up our public beta version in May 2017, and have added more than 2 billion pages to our index. And we've experienced a lot of creative web masters tweaks, here is some of the [subtle challenges with robots.txt](https://www.privacore.com/2016/08/30/robots-txt-subtle-challenges/)
+We've opened up our public beta version in May 2017, and have added more than 2 billion pages to our index. And we've experienced a lot of creative web master tweaks, here is some of the [subtle challenges with robots.txt](https://www.privacore.com/2016/08/30/robots-txt-subtle-challenges/)
