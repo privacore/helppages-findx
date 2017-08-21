@@ -8,7 +8,8 @@
 ## Search features  
 - [Search exits](/en/search-exits)
 - [Advanced search features](/en/features/advanced-search)
-- [Keyboard Shortcuts](/en/features/keyboard-shortcuts)  
+- [Keyboard Shortcuts](/en/features/keyboard-shortcuts)
+- [Did you mean...](/en/features/did-you-mean)   
 
 ## Quick searches:
 You can do quick private searches on Findx by using the exits feature:
@@ -21,7 +22,7 @@ You can do quick private searches on Findx by using the exits feature:
 | !m  | Maps | 
 | !v  | Video |
 
-### Settings
+## Settings
 
 - [Auto Suggest](/en/settings/auto-suggest)
 - [Hide search terms](/en/settings/hide-search-terms)
@@ -31,5 +32,3 @@ You can do quick private searches on Findx by using the exits feature:
 - [Qualityrating](/en/improvesearch/rate-result)
 - [Safe Search](/en/settings/safesearch)
 - [Video Playback](/en/settings/video-playback)
-
-
