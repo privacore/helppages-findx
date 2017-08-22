@@ -10,9 +10,16 @@ This also means that your search results are not ranked based on what you have c
 
 What you see is what everyone sees - findx's ranking algorithm is not biased. 
 
+## Make Findx your homepage and default search engine  
+[Make findx my default search engine in Firefox](/en/gettignstarted/findxinfirefox)  
+[Make findx my default search engine in Firefox](/en/gettignstarted/firefox-for-ios)
+
+### Other browsers
+[Make findx my default homepage in my browser](/en/gettignstarted/findx-homepage)  
+[Make findx my default homepage on my phone](/en/gettignstarted/findx-homepage-phone)
+
 ![Findx feature - improve search results](https://help.findx.com/_media/findx_as_startpage_animation.gif)
 
-[Make findx my default search engine in Firefox](/en/findxinfirefox)
 
 ## Features of findx 
 
