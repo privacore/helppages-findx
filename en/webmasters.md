@@ -2,7 +2,7 @@
 
 Info about technical implementation of Findx, Findxbot and how it operates.
 
-- [Findxbot](/en/webmasters/search-exits)
+- [Findxbot](/en/webmasters/findxbot)
 - [Priority of top level domian indexing](/en/webmasters/tld)
 - [Submit a website to the indexing queue](https://www.findx.com/tools/submit-a-website)
  
