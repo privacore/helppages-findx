@@ -10,3 +10,5 @@ You can manually add it via the webmaster tools section
 1. Click **Submit**
 
 The website will be placed in the indexing queue
+
+[Submit a website to the indexing queue](https://www.findx.com/tools/submit-a-website)
