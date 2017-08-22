@@ -1,10 +1,10 @@
-# Information for webmasters and search engine experts  
+# Webmasters and search engine experts  
 
 Info about technical implementation of Findx, Findxbot and how it operates.
 
 - [Findxbot](/en/webmasters/findxbot)
 - [Priority of top level domian indexing](/en/webmasters/tld)
-- [Submit a website to the indexing queue](https://www.findx.com/tools/submit-a-website)
+- [Submit a website to the indexing queue](/en/webmasters/submit-site)
  
 
 Everyday we are working to improve search and need all the feedback we can have, good and bad.  
