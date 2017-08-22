@@ -1,4 +1,4 @@
-# Advanced search on findx  
+# Advanced search on Findx  
 To reduce the number of results in your searches you can use advanced search prases
 
 In the search field, add eg. site:www.welt.de and you'll only get results from welt.de. It can be handy if you don't find what you look for, but also if you don't find anything at all.
