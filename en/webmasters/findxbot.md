@@ -7,9 +7,10 @@ If our bot has visited your servers - don't worry your site is not under attack,
 | ---- | ---- |  
 | Name | findxbot |    
 | User-agent | Mozilla/5.0 (compatible; Findxbot/1.0;) | 
-| IP address | 77.66.1.97 | 
-| IP address | 77.66.60.64 | 
-| IP address | 188.176.48.254 |  
+| IP address | 77.66.1.97 |
+| IP address | 77.66.60.74 |
+| IP address | 77.66.120.33 |
+| IP address | 188.176.48.254 |
   
 ### Robots.txt support
 | Robots.txt directive | Supported |  
