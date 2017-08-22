@@ -1,4 +1,6 @@
-# Search categories
+# Features of the private search engine  
+  
+## Search privately in categories
 - [Web search](/en/websearch)
 - [Maps](/en/maps)
 - [Video](/en/features/video)
