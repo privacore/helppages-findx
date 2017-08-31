@@ -10,7 +10,7 @@
 ## Search features  
 - [Search exits](/en/search-exits)
 - [Advanced search features](/en/features/advanced-search)
-- [Keyboard Shortcuts](/en/features/keyboard-shortcuts)
+- [Keyboard shortcuts](/en/features/keyboard-shortcuts)
 - [Did you mean...](/en/features/did-you-mean)   
 
 ## Quick searches:
@@ -26,11 +26,11 @@ You can do quick private searches on Findx by using the exits feature:
 
 ## Settings for search
 
-- [Auto Suggest](/en/settings/auto-suggest)
+- [Auto-suggest](/en/settings/auto-suggest)
 - [Hide search terms](/en/settings/hide-search-terms)
-- [Instant Answers - Not yet implemented](/en/settings/instant-answer)
-- [Keyboard Shortcuts](/en/features/keyboard-shortcuts)
+- [Instant answers - Not yet implemented](/en/settings/instant-answer)
+- [Keyboard shortcuts](/en/features/keyboard-shortcuts)
 - [Set your language on Findx](/en/settings/languagedetection)  
-- [Qualityrating](/en/improvesearch/rate-result)
-- [Safe Search](/en/settings/safesearch)
-- [Video Playback](/en/settings/video-playback)
+- [Quality rating](/en/improvesearch/rate-result)
+- [Safe search](/en/settings/safesearch)
+- [Video playback](/en/settings/video-playback)
