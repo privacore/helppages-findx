@@ -25,17 +25,17 @@ If our bot has visited your servers - don't worry your site is not under attack,
 | Indexpage | No |  
 | Sitemap | No |
 
-#### Allow findxbot (example)  
+#### Allow Findxbot (example)  
 User-agent: Findxbot  
 Allow: /  
 
 
 ### Don't want your website in our new search engine?  
-if you don't want your pages indexed by us, then please use robots.txt or block the IP addresses mentioned above.
+If you don't want your pages indexed by us, then please specify this in your site's robots.txt file, or block the IP addresses listed above.
 
-#### Disallow Findxbot bots (example)   
+#### Disallow Findxbot (example)   
 User-agent: Findxbot  
 Disallow: /
 
 ### More about robots.txt
-We've opened up our public beta version in May 2017, and have added more than 2 billion pages to our index. And we've experienced a lot of creative web master tweaks, here is some of the [subtle challenges with robots.txt](https://www.privacore.com/2016/08/30/robots-txt-subtle-challenges/)
+We launched our public beta version in May 2017, and have added nearly 2.5 billion pages to our index - this number is growing daily! We've experienced a lot of creative webmaster tweaks, here are some of the [subtle challenges with robots.txt](https://www.privacore.com/2016/08/30/robots-txt-subtle-challenges/) that webmasters should be aware of.

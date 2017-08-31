@@ -11,14 +11,15 @@ This also means that your search results are not ranked based on what you have c
 What you see is what everyone sees - Findx's ranking algorithm is not biased. 
 
 ## Make Findx your homepage and default search engine  
-[Make Findx my default search engine in Firefox](/en/gettignstarted/Findxinfirefox)  
-[Make Findx my default search engine in Firefox](/en/gettignstarted/firefox-for-ios)
+- [Install a lightweight browser plugin to automatically set Findx to be your default  search engine in Firefox and Chrome](en/browserplugin) (Safari add-on is in planning)
+- [Make Findx my default search engine in Firefox](/en/gettingstarted/findxinfirefox)  
+- [Make Findx my default search engine on an iPhone](/en/gettingstarted/firefox-for-ios)
 
 ### Other browsers
-[Make Findx my default homepage in my browser](/en/gettignstarted/Findx-homepage)  
-[Make Findx my default homepage on my phone](/en/gettignstarted/Findx-homepage-phone)
+- [Make Findx my default homepage in my browser](/en/gettingstarted/findx-homepage)  
+- [Make Findx my default homepage on my phone](/en/gettingstarted/findx-homepage-phone)
 
-![Findx feature - improve search results](https://help.Findx.com/_media/Findx_as_startpage_animation.gif)
+![Findx feature - improve search results](/_media/Findx_as_startpage_animation.gif)
 
 
 ## Features of Findx 
@@ -38,7 +39,7 @@ Read more about all of the Findx features at: [https://www.privacore.com/Findx/f
 
 Do you want to make using Findx easier?
 
-- Make Findx your default home page [in your browser](Findx-homepage) or [on your phone](Findx-homepage-phone).
+- Make Findx your default home page [in your browser](findx-homepage) or [on your phone](findx-homepage-phone).
 - [Set your language on Findx](languagedetection).
 - Do you prefer a new tab to open when you click on a result? [Change this setting to visit sites in a new tab](new-tab).
 - Don't like auto-suggest? You can easily [turn auto-suggest off](auto-suggest).

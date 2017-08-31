@@ -11,14 +11,14 @@
 | Indexpage | No |  
 | Sitemap | No |
 
-## Allow findxbot (example)  
+## Allow Findxbot (example)  
 User-agent: Findxbot  
 Allow: /  
 
 
 ### Don't want your website in our new search engine?  
-if you don't want your pages indexed by us, then please use robots.txt or block the IP addresses mentioned above.
+If you don't want your pages indexed by us, then please indicate this in robots.txt or block the IP addresses listed above.
 
-#### Disallow Findxbot bots (example)   
+#### Disallow Findxbot (example)   
 User-agent: Findxbot  
 Disallow: /

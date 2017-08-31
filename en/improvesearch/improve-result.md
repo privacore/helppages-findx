@@ -1,7 +1,6 @@
 # Improve a result
 
-The information findx returns about a Web page is only as good as what the webmaster enters. At times, you may encounter very general page titles and descriptions that don't tell you much. You can help make findx better by improving the title and description for a result.
-
+The information that Findx returns about a web page is only as good as what the webmaster enters. At times, you may encounter generic or misleading page titles and descriptions. You can help make Findx better by improving the title and description for a result.
 
 Anyone can improve a search result. To do this:
 
@@ -11,9 +10,9 @@ Anyone can improve a search result. To do this:
 3. Under **"What will describe the content of this result better?,"** edit the description, if necessary. 
 4. Click **SEND**.
 
-![improve-on-this-result](https://www.privacore.com/wp-content/uploads/2017/03/Improve-search-resutltitle-findx.png)
+![improve-on-this-result](https://www.privacore.com/wp-content/uploads/2017/03/Improve-search-resutltitle-Findx.png)
 
-findx registers and validates all improvements submitted. The amount of time it takes to review and update a result will depend on the total number of pending suggestions.
+Findx registers and validates all improvements submitted. The amount of time it takes to review and update a result will depend on the total number of pending suggestions.
 
-
+Note: This doesn't change the website, only the title and description in the Findx index.
 Eventually, we plan to make suggested improvements public, so that webmasters can see if their sites are listed for improvement. We will also list the changes made to a result publicly.

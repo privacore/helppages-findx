@@ -1,6 +1,6 @@
-# Features of the private search engine  
+# Features of Findx 
   
-## Search privately in categories
+## Search for different things, in private
 - [Web search](/en/websearch)
 - [Maps](/en/maps)
 - [Video](/en/features/video)
@@ -12,9 +12,12 @@
 - [Advanced search features](/en/features/advanced-search)
 - [Keyboard shortcuts](/en/features/keyboard-shortcuts)
 - [Did you mean...](/en/features/did-you-mean)   
+- [Improve a result](/en/improvesearch/improve-result)
+- [Quality rating](/en/improvesearch/rate-result)
+- [Keyboard shortcuts](/en/features/keyboard-shortcuts)
 
 ## Quick searches:
-You can do quick private searches on Findx by using the exits feature:
+You can do quick private searches on Findx by using [search exits](/en/search-exits):
 
 | !exit | Destination |
 | ------------- | ------------- | 
@@ -25,12 +28,11 @@ You can do quick private searches on Findx by using the exits feature:
 | !v  | Video |
 
 ## Settings for search
-
 - [Auto-suggest](/en/settings/auto-suggest)
 - [Hide search terms](/en/settings/hide-search-terms)
-- [Instant answers - Not yet implemented](/en/settings/instant-answer)
-- [Keyboard shortcuts](/en/features/keyboard-shortcuts)
 - [Set your language on Findx](/en/settings/languagedetection)  
-- [Quality rating](/en/improvesearch/rate-result)
 - [Safe search](/en/settings/safesearch)
 - [Video playback](/en/settings/video-playback)
+
+## Not yet implemented
+- [Instant answers](/en/settings/instant-answer)

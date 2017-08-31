@@ -1,41 +1,35 @@
-# Set your language on findx  
+# Set your language on Findx  
 
 You can select the language you want to use for menus and search results.
 
-### Show findx buttons, messages and the rest of the interface in your language
+### See Findx buttons, messages and the rest of the interface in your language
 
-
-1. Click the **menu icon** to open the findx menu.  
+1. Click the **menu icon** to open the Findx menu.  
 2. Click **Settings**.  
 3. Next to **Web Site Language**, click the drop-down list to select from available languages.   
 4. At the bottom of the page, click **Save and Exit**.
 
 
-### Show search results in you language  
+### Show search results in your language  
 
-findx tries to guess what language you prefer to see results in, but you can also enter the language you want to use in the **Settings** area.  
+Findx tries to guess what language you prefer to see results in, but you can also enter the language you want to use in the **Settings** area.  
 
-
-1. Click the **menu icon** to open the findx menu.  
+1. Click the **menu icon** to open the Findx menu.  
 2. Click **Settings**.  
 3. Next to **Search Results Language**, click the drop-down list to select from available languages.   
 4. At the bottom of the page, click **Save and Exit**.
 
 ### Location/Language Auto-detection
 
-findx automatically determines the country you're located in so that it can give you the best results. 
+Findx can automatically determine the country you're located in so that it can give you the best results. 
 
+**Example: You're in London, and prefer UK results.**  
 
-***Example:  
-You're in London, and prefer UK results.***  
-
-
-Your browser is set to English, but English language results can be from all over the world. In order to give you the most relevant information, findx will determine your location and show you UK results. 
+Your browser is set to English, but English language results can be from all over the world. In order to give you the most relevant information, findx will automatically determine your location and show you UK results. 
 
 ---
 
-### How does findx automatically select my language?  
-Geographical location (country) is determined before you search findx through a geo-lookup service that's based on your IP address. findx uses the geographic information and your browser language to set the defaults for its interface and search results.   
+### How does Findx automatically select my language?  
+Geographical location (country) is determined before you search Findx through a geo-lookup service that's based on your IP address. Findx uses this geographic information and your browser language to set the defaults for its interface and search results.   
 
-
-findx doesn't know or save your IP address, and can't associate it with your searches.
+Findx doesn't save your IP address, and can't link it with your searches.

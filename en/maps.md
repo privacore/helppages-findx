@@ -1,8 +1,8 @@
-# Maps search
+# Map search
 
-Find destinations and get turn-by-turn route planning on findx
+Find destinations and get turn-by-turn route planning on Findx
 
-![Route planning](https://help.findx.com/_media/en/route-planning.gif) 
+![Route planning](https://help.Findx.com/_media/en/route-planning.gif) 
 
 ## Map features
 

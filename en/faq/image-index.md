@@ -1,4 +1,4 @@
-# Does findx index images?
-The service returns images from various sources, rather than maintaining its own index. findx  currently gets image results from Shutterstock (affiliated). 
+# Does Findx index images?
+Rather than maintaining its own image index, and having to deal with copyright issues, takedown requests, and so on, Findx returns image results from one of the most popular professional image hosting services, Shutterstock (affiliated). 
 
-findx will be adding more image services in the future. 
+Findx will be adding more image services in the future. 

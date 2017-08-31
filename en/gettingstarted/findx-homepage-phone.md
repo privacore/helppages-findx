@@ -1,7 +1,8 @@
-# Make findx your home page on your phone
-You can get to findx quickly on your phone by setting it as your browser's home page.
+# Make Findx your home page on your phone
 
-Click the link for your browser from the list below, follow the instructions, and set your home page to [https://www.findx.com/](https://www.findx.com/).
+Get to Findx quickly on your phone by setting it as your browser's home page.
+
+Use the instructions for your browser from the list below, and set your home page to [https://www.findx.com/](https://www.findx.com/).
 
 ## Change your home page
 [Chrome/Android](https://support.google.com/accounts/answer/463?hl=en)  

@@ -1,7 +1,7 @@
 # Advanced search on Findx  
-To reduce the number of results in your searches you can use advanced search prases
+To reduce the number of results in your searches you can enter advanced search phrases.
 
-In the search field, add eg. site:www.welt.de and you'll only get results from welt.de. It can be handy if you don't find what you look for, but also if you don't find anything at all.
+For example: In the search field, add site:www.welt.de and you'll only get pages from welt.de in your search results. This is useful when you want to find something on a specific site.
 
 ##Search phrases overview
 
@@ -12,7 +12,7 @@ In the search field, add eg. site:www.welt.de and you'll only get results from w
 
 
 ##Quick searches:
-You can do quick private searches on findx by using exits:
+You can do quick private searches on findx and then use a [search exit](/en/search-exits) if you want to repeat the search on a specific website:
 
 | !exit | Destination |
 | ------------- | ------------- | 

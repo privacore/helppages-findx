@@ -23,9 +23,9 @@ Your feedback will help improve the search experience for everyone.
 ---
 
 ## Why you should help?
-Findx is an independent private search engine, and to to keep serving the most relevant results we need to constantly improve and evolve the software and algorithms behind findx. This will improve private search for everyone over time.
+Findx is an independent private search engine, and to to keep serving the most relevant results we need to constantly improve and evolve the software and algorithms behind Findx. This will improve private search for everyone over time.
 
 We believe that asking you to contribute is the most natural way to improve the search results. You can easily say whether you like the result, whether it is spam or even malicious, and add details to improve poor or missing descriptions.
 
 ## For people with deeper technical understanding
-findx is an Open Source project, and you can participate in improving the source code development here on [github](https://github.com/privacore/open-source-search-engine).
+Findx is an Open Source project, and you can participate in improving the source code development here on [github](https://github.com/privacore/open-source-search-engine).
