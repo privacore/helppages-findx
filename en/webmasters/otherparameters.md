@@ -1,6 +1,6 @@
 # Parameters for crawling and ranking
 
-## How often does Findxbot re-spidering a website?  
+## How often does Findxbot re-spider a website?  
 Generally we aim for re-spidering every 7-10 days for front pages. In practice it varies depending on the system load, especially in beta.  
 
 ## XML sitemap support
