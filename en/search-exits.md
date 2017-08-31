@@ -1,7 +1,7 @@
 #Search exits !x 
-A search exit is a way to quickly exit findx and search other sources.
+A search exit is a way to quickly exit Findx and search other sources.
 
-Just type !x in the search field, and findx will forward you to that destination. It can be handy if you don't find what you look for, but also if you don't find anything at all.
+Just type !x in the search field, and findx will forward you to that destination. It can be handy if you know which site you want to search on, or when you don't see any useful results from Findx.
 
 ##Search exits by category
 ### Images

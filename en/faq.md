@@ -7,8 +7,7 @@
 - [How does Findx earn money?](/en/faq/monetisation)
 
 # Do you have a question? 
-Findx more questions and answers, and ask questions yourself in the Findx forum
-[Ask a question in the Findx community]/https://forum.privacore.com/index.php?p=/categories/findx-private)
+You could search for your answer using Findx, or you could [ask your questions in our online community](https://forum.privacore.com/index.php?p=/categories/findx-private).
 
 ![Findx community](https://forum.privacore.com/themes/privacore/images/findx-large.png) 
 

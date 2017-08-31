@@ -9,5 +9,5 @@ More information about the technical implementation of Findx and Findxbot:
 - [How to explicitly allow Findxbot in robots.txt](/en/webmasters/robotstxt)
  
 
-Everyday, we are working to improve search and appreciate any the feedback you can give us, both good and bad.  
+Each day, we are working to improve search and appreciate any the feedback you can give us, both good and bad.  
 If you have further questions, don't hesitate to get in touch - join our [online community](http://forum.privacore.com) and leave us a note.
