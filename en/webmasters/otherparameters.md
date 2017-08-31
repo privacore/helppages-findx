@@ -3,7 +3,7 @@
 ## How often does Findxbot re-spidering a website?  
 Generally we aim for re-spidering every 7-10 days for front pages. In practice it varies depending on the system load, especially in beta.  
 
-# XML sitemap support
+## XML sitemap support
 XML sitemaps are not supported, yet.  
 
 ## How does Findxbot handle canonical links?
