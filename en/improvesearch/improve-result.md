@@ -10,7 +10,7 @@ Anyone can improve a search result. To do this:
 3. Under **"What will describe the content of this result better?,"** edit the description, if necessary. 
 4. Click **SEND**.
 
-![improve-on-this-result](https://www.privacore.com/wp-content/uploads/2017/03/Improve-search-resutltitle-Findx.png)
+![improve-on-this-result](https://www.privacore.com/wp-content/uploads/2017/03/Quality-rate-search-result-findx-.png)
 
 Findx registers and validates all improvements submitted. The amount of time it takes to review and update a result will depend on the total number of pending suggestions.
 
