@@ -18,6 +18,6 @@ Findx is in public beta, and you can [try searching in private now](https://www.
 
 
 
-## Join the conversation 
+## Get more help 
 You can also join the community, give feedback and learn more about online privacy 
-[forum.privacore.com](https://forum.privacore.com/)
+[forum.privacore.com](https://forum.privacore.com/index.php?p=/categories/help)
