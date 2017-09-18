@@ -26,12 +26,12 @@ What you see is what everyone sees - Findx's ranking algorithm is not biased.
 
 There are several features that help you get more out of Findx than simply searching the web in private. 
 
-- [Improve search results](helpimprovesearch): Collaborate with your fellow searchers and contribute your feedback to improve search results for everyone.
-- [Shopping search](shopping): Search for gifts in private, without worrying that your intended recipient will see ads related to your search!
-- [Private route planning](maps): Keep details of your planned routes to yourself using our private map search feature.
-- [Image search](image-index.md): Findx searches popular image services which have quality moderation, so you know the images that you (and your children) see are safe.
-- [Video search](video-playback): You can search for videos and browse results in private. To ensure the highest level of privacy, use Findx with our private browser Privafox.
-- [Safe search](safesearch): Make sure you protect your children and filter out sites that contain 'adult' content. 
+- [Improve search results](en/improvesearch): Collaborate with your fellow searchers and contribute your feedback to improve search results for everyone.
+- [Shopping search](en/features/shopping): Search for gifts in private, without worrying that your intended recipient will see ads related to your search!
+- [Private route planning](en/maps): Keep details of your planned routes to yourself using our private map search feature.
+- [Image search](en//image-index): Findx searches popular image services which have quality moderation, so you know the images that you (and your children) see are safe.
+- [Video search](en/video): You can search for videos and browse results in private. To ensure the highest level of privacy, use Findx with our private browser Privafox.
+- [Safe search](/en/settings/safesearch): Make sure you protect your children and filter out sites that contain 'adult' content. 
 
 Read more about all of the Findx features at: [https://www.privacore.com/Findx/features](https://www.privacore.com/Findx/features)
 
@@ -40,9 +40,9 @@ Read more about all of the Findx features at: [https://www.privacore.com/Findx/f
 Do you want to make using Findx easier?
 
 - Make Findx your default home page [in your browser](findx-homepage) or [on your phone](findx-homepage-phone).
-- [Set your language on Findx](languagedetection).
-- Do you prefer a new tab to open when you click on a result? [Change this setting to visit sites in a new tab](new-tab).
-- Don't like auto-suggest? You can easily [turn auto-suggest off](auto-suggest).
+- [Set your language on Findx](/settings/languagedetection).
+- Do you prefer a new tab to open when you click on a result? [Change this setting to visit sites in a new tab](/en/settings/new-tab).
+- Don't like auto-suggest? You can easily [turn auto-suggest off](/en/settings/auto-suggest).
 
 ## Level up your searching
 
