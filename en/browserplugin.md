@@ -26,6 +26,11 @@ To add Findx as the default search engine in Chrome:
 The official Findx Chrome extension sets Findx as your default search engine, home page and new tab page.
 
 ## Private search engine add-on for Safari  
-In planning
+To add Findx as the default search engine in Safari: 
+  1. Download [get.findx.com](https://get.findx.com/findx.safariextz).  
+  2. Got to Downloads and click the file **findx.safariextz** .  
+  3. Click **Approve** to start the installation. 
+  4. Now you have changed to Findx private search as default 
+(The app is not officially approved by Apple, so you might see a warning)
   
 
