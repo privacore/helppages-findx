@@ -21,6 +21,10 @@ What you see is what everyone sees - Findx's ranking algorithm is not biased.
 
 ![Findx feature - improve search results](/_media/Findx_as_startpage_animation.gif)
 
+## Use Findx on your mobile devices
+- [Download the Findx app for Apple devices from the App Store](https://itunes.apple.com/us/app/findx-private-search-engine/id1289648958?mt=8)
+- [Download the Findx app for Android from Google Play](https://play.google.com/store/apps/details?id=com.privacore.findx)
+
 
 ## Features of Findx 
 

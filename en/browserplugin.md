@@ -32,5 +32,9 @@ To add Findx as the default search engine in Safari:
   3. Click **Approve** to start the installation. 
   4. Now you have changed to Findx private search as default 
 (The app is not officially approved by Apple, so you might see a warning)
+
+## Use the native Findx mobile app to search and browse in private
+
+The [Findx app for smartphones and tablets](/en/gettingstarted/findxmobile) is complete with private search and tracking blocking, and available for both Apple and Android devices.
   
 

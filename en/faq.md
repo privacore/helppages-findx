@@ -1,6 +1,7 @@
 # FAQ - Frequently Asked Questions  
 
 - [How do I make Findx my default search engine?](/en/gettingstarted/findxinfirefox)
+- [How can I use Findx on my smartphone or tablet?]()/en/gettingstarted/findxmobile)
 - [Does Findx have a "Did you mean..." autocorrect feature?](/en/features/did-you-mean)
 - [Does Findx index images?](/en/faq/image-index)
 - [Why does Findx use YouTube videos?](/en/faq/why-youtube)

@@ -1,6 +1,6 @@
 # Make Findx your home page on your phone
 
-Get to Findx quickly on your phone by setting it as your browser's home page.
+If you don't want to use the [native Findx app on your smartphone](/en/gettingstarted/findxmobile), you can get to Findx quickly by setting it as your browser's home page.
 
 Use the instructions for your browser from the list below, and set your home page to [https://www.findx.com/](https://www.findx.com/).
 

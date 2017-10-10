@@ -1,6 +1,6 @@
 # How to set Findx as the default search engine on an iPhone 
 
-You can easily make Findx your default search engine in Firefox for iOS in a few easy steps.
+If you don't want to use the [native Findx app on your iPhone](/en/gettingstarted/findxmobile), you can make Findx your default search engine in Firefox for iOS in a few easy steps.
 
 ## 1. Add Findx as a search engine in Firefox for iOS
 To add Findx as a search engine:  
