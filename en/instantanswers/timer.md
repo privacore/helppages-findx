@@ -1,4 +1,4 @@
-# Findx instant answers - Timer
+# Timer
 
 In the search field box type "timer" followed by the length of time you want to set it to - for example: 10sec, or 10min, or 10hr.
 

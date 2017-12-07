@@ -1,4 +1,4 @@
-# Findx instant answers - Calculator
+# Calculator
 
 Simply type in your sum and and Findx will show you the answer in a calculator to the right of your search results.
 

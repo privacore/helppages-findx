@@ -1,4 +1,4 @@
-# Findx instant answers - Weather
+# Weather
 
 Type "weather" followed by a location, and Findx will show you a 6 day forecast for that location.
 
