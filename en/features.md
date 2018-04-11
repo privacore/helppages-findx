@@ -15,6 +15,7 @@
 - [Improve a result](/en/improvesearch/improve-result)
 - [Quality rating](/en/improvesearch/rate-result)
 - [Keyboard shortcuts](/en/features/keyboard-shortcuts)
+- [Instant answers](/en/settings/instant-answer)
 
 ## Quick searches:
 You can do quick private searches on Findx by using [search exits](/en/search-exits):
@@ -33,6 +34,3 @@ You can do quick private searches on Findx by using [search exits](/en/search-ex
 - [Set your language on Findx](/en/settings/languagedetection)  
 - [Safe search](/en/settings/safesearch)
 - [Video playback](/en/settings/video-playback)
-
-## Not yet implemented
-- [Instant answers](/en/settings/instant-answer)

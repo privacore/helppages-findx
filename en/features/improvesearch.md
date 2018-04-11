@@ -11,7 +11,6 @@ Your feedback will help improve the search experience for everyone.
 
 ## How to give feedback  
 
-
 [How to improve the title or description of a single result ](/en/improvesearch/improve-result)  
 [How to rate a result using emoticons](/en/improvesearch/rate-result)  
 [Tell what you think of the general relevance of the results](/en/improvesearch/what-do-you-think) 

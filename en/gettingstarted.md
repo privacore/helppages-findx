@@ -36,6 +36,7 @@ There are several features that help you get more out of Findx than simply searc
 - [Image search](en//image-index): Findx searches popular image services which have quality moderation, so you know the images that you (and your children) see are safe.
 - [Video search](en/video): You can search for videos and browse results in private. To ensure the highest level of privacy, use Findx with our private browser Privafox.
 - [Safe search](/en/settings/safesearch): Make sure you protect your children and filter out sites that contain 'adult' content. 
+- [Instant answers](/en/settings/instant-answer): Use Findx to quickly calculate something, set a timer or get a weather forecast, right from the search field.
 
 Read more about all of the Findx features at: [https://www.privacore.com/Findx/features](https://www.privacore.com/Findx/features)
 

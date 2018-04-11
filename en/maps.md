@@ -12,4 +12,4 @@ Find destinations and get turn-by-turn route planning on Findx
 
 [Contribute to the map](/en/maps/contribute-map)
 
-Changing the units from km to miles 
+[Switch between kilometers and miles](/en/settings/distance-units) 

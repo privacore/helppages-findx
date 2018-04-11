@@ -7,13 +7,13 @@ Findx is not fully developed, so you can't yet be sure of finding everything you
 ### Missing search results
 You might be wondering, for example:  
 
-- Why is my website not listed? or 
-- I find this result on Google; why isn't it on Findx?
+- Why is my website not listed? 
+- When I found a particular result on Google, why isn't it on Findx?
 
 Finding results requires the search engine robot to have actually visited a website and added it to the index. As you can imagine, it will take a while before Findxbot visits all of the important sites on the internet. 
 
 ### Variation in perfomance and speed  
-You may also experience varied performance. This happens due to the hard work and continuous updates from the development team.
+You may also experience varied performance. This happens because our development team is hard at work and delivering continuous updates.
 
 ## Start searching and improving the web in private
 The Findx beta lets you search the web in private, and it will not collect your personal behaviour or search history.
@@ -25,6 +25,7 @@ All these searches are available to you right now – but of course, they will s
 * Map search and route planning
 * Shopping search
 * Image and video search  
+* Instant answers
 
 ## Help improve search results 
 We believe you know a lot about what is good on the web and what needs improving. That's why you can help other “finders” to get better results, and why you as a user can give feedback directly in the search results.

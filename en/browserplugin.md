@@ -1,20 +1,28 @@
-# Change the default search engine in your browser
+# Use the Findx browser extensions
 
-Instead of [changing your default search engine manually](/en/browserplugin/change-searchengine) in the three most popular browsers, you can install a lightweight add-on, which will update the default search engine automatically.
+Instead of [changing your default search engine manually](/en/browserplugin/change-searchengine) in the three most popular browsers, you can install a lightweight browser extension, which will update the default search engine automatically. 
 
-## Private search engine add-on for Firefox
-To add Findx as the default search engine in Firefox:  
-  1. Go to [Mozilla add-on store and find findx](https://addons.mozilla.org/firefox/addon/findx/).  
+## Findx search engine for Firefox
+  
+  1. Go to the [Mozilla add-on store and search for Findx](https://addons.mozilla.org/en-US/firefox/addon/findx/).  
   2. Click the **Add to Firefox** button.  
-  3. Click **Install** to start the installation. 
-  4. Click **OK** to confirm.
-  5. Your browser will then ask you to restart
-  
-  The official Findx Firefox add-on sets Findx as your default search engine, home page and new tab page.
-  
+  3. Click **Add** to install the add-on. 
+  4. Click **OK**.
+
+This official Findx Firefox add-on sets Findx as your default search engine, home page and new tab page. Now you have [changed the default search engine in Firefox](https://www.findx.com) to Findx, and you can search by typing in the address bar and search field.
+
 {{url>https://player.vimeo.com/external/222816264.hd.mp4?s=9d21d0043294592c1f0ab67388beacdec546b5e0&profile_id=174; 80%,height property1 property2 alignment|Firefox private search plugin - findx}}
 
-Now you have [changed the default search engine in Firefox](https://www.findx.com) to Findx, and you can search by typing in the address bar and search field.
+But it's not enough to just search in private, you should protect your privacy while you are browsing. 
+
+## Findx Privacy Control add-on for Firefox
+  
+  1. Go to the [Mozilla add-on store and search for Findx Privacy Control](https://addons.mozilla.org/en-US/firefox/addon/findx-privacy-control/).  
+  2. Click the **Add to Firefox** button.  
+  3. Click **Add** to install the add-on. 
+  4. Click **OK**.
+
+Findx Privacy Control icon will be added to Firefox. Use this to control what gets blocked - all ads and trackers, or just the creepy ones.
 
 ## Private search engine plugin for Chrome  
 To add Findx as the default search engine in Chrome:  

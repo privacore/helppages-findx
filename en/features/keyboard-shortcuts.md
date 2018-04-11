@@ -5,7 +5,6 @@ You can navigate through your search results using keyboard shortcuts, instead o
 
 **To activate this setting:** 
 
-
 1. Click the **menu icon** to open the Findx menu.
 2. Click **Settings**.
 3. Next to **Keyboard Shortcuts**, click the toggle button to slide it to the right. The toggle will become blue, indicating that the feature is active.
@@ -14,7 +13,6 @@ You can navigate through your search results using keyboard shortcuts, instead o
 
 **Shortcuts for opening results:**
 
-
 * Enter or l or o — go to the highlighted result, or use it right away to go to the first result
 * Ctrl/Cmd+Enter — open a result in the background
 * d — domain search (if a result is highlighted)
@@ -22,7 +20,6 @@ You can navigate through your search results using keyboard shortcuts, instead o
 
 
 **Navigation shortcuts:**
-
 
 * ↓ or j — next search result
 * ↑ or k — previous search result
