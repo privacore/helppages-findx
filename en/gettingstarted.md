@@ -25,6 +25,9 @@ What you see is what everyone sees - Findx's ranking algorithm is not biased.
 - [Download the Findx app for Apple devices from the App Store](https://itunes.apple.com/us/app/findx-private-search-engine/id1289648958?mt=8)
 - [Download the Findx app for Android from Google Play](https://play.google.com/store/apps/details?id=com.privacore.findx)
 
+## Protect your privacy in your favourite browser with Findx Privacy Control
+- [Learn how to use Findx Privacy Control](/en/findxapps/privacycontrol)
+
 
 ## Features of Findx 
 

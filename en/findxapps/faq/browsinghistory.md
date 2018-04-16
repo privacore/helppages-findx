@@ -1,6 +1,6 @@
 # What happens with my browsing history?
 
-When you close the Findx app on desktop or mobile, your browsing and download history is deleted automatically. 
+When you close the Findx mobile app, your browsing and download history is deleted automatically. 
 
 Cookies are also deleted, unless you explicitly choose to protect them.
 

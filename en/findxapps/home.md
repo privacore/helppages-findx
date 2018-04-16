@@ -1,20 +1,18 @@
-# Findx apps for desktop and mobile
+# Findx mobile apps and browser extensions
 
-Findx apps help you keep your secrets to yourself by ensuring your online activities are private. They stop third-party trackers, block ads, and delete your search history, automatically. 
+Findx apps and extensions help you keep your secrets to yourself by ensuring your online activities are private. They stop third-party trackers, block ads, and delete your search history, automatically. 
 
 ## Findx mobile apps
 
-Findx mobile is based on a lightning fast, lightweight browser, and has ad-blocking, tracker blocking, search history deletion, and the [private search engine Findx](https://get.findx.com) set by default. Open the Findx app, find what you're searching for and you're done! Much faster than the bloated browsers and webpages saturated with ads and tracking scripts.
+The Findx mobile apps are based on a lightning fast, lightweight browser, and has ad-blocking, tracker blocking, search history deletion, and the [private search engine Findx](https://get.findx.com) set by default. Open the Findx app, find what you're searching for and you're done! Much faster than the bloated browsers and webpages saturated with ads and tracking scripts.
 
 - [Get the Findx app for iOS and Apple devices](https://itunes.apple.com/us/app/findx-private-search-engine/id1289648958?mt=8)
 - [Get the Findx app for Android
 ](https://play.google.com/store/apps/details?id=com.privacore.findx)
 
-## Findx desktop app
+## Findx Privacy Control extensions for your browsers
 
-The Findx desktop app uses the [Cookiecontroller](/en/findxapps/faq/cookiecontrol) where you can block or allow cookies, and [Privacontrol](/en/findxapps/faq/privacontrol) which gives you complete control over what a website is allowed or not allowed to do. A [master password](/en/findxapps/faq/masterpassword) also protects your bookmarks from prying eyes (and intrusive web scripts!)
-
-- [Coming soon for all operating systems](https://get.findx.com/desktop/)
+The [Findx Privacy Control browser extension](/en/findxapps/privacycontrol) gives you complete control over what a website is allowed or not allowed to do. It lets you block or allow trackers and advertisements to protect your privacy. 
 
 [Get started with the Findx apps](/en/findxapps/gettingstarted)
 
