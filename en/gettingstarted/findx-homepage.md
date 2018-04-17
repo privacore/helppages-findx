@@ -10,7 +10,7 @@ Quickly get to Findx whenever you open your browser by making Findx your home pa
 [Safari](https://support.apple.com/kb/PH21487?viewlocale=en_US&locale=en_US)  
 [Firefox](https://support.mozilla.org/en-US/kb/how-to-set-the-home-page)
 
-**Tip:** You can quickly change your homepage and default search engine using the [lightweight Findx browser extension](/en/findxapps/home).
+**Tip:** You can quickly change your homepage and default search engine using the [lightweight Findx browser extension](/en/findxapps).
 
 ## Want more control over your privacy than just using a private search engine? 
 

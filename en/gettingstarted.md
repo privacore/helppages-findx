@@ -11,10 +11,10 @@ This also means that your search results are not ranked based on what you have c
 What you see is what everyone sees - Findx's ranking algorithm is not biased. 
 
 ## Protect your privacy in your favourite browser with Findx Privacy Control
-- [Learn how to use Findx Privacy Control](/en/findxapps/privacycontrol)
+- [Learn how to use Findx Privacy Control](/en/privacycontrol)
 
 ## Make Findx your homepage and default search engine  
-- [Install a lightweight browser extension to automatically set Findx to be your default  search engine in Firefox and Chrome](en/browserplugin) (Safari add-on is in planning)
+- [Install a lightweight browser extension to automatically set Findx to be your default  search engine in Firefox and Chrome](/en/browserplugin) (Safari add-on is in planning)
 - [Make Findx my default search engine in Firefox](/en/gettingstarted/findxinfirefox)  
 - [Make Findx my default search engine on an iPhone](/en/gettingstarted/firefox-for-ios)
 
@@ -33,11 +33,11 @@ What you see is what everyone sees - Findx's ranking algorithm is not biased.
 
 There are several features that help you get more out of Findx than simply searching the web in private. 
 
-- [Improve search results](en/improvesearch): Collaborate with your fellow searchers and contribute your feedback to improve search results for everyone.
-- [Shopping search](en/features/shopping): Search for gifts in private, without worrying that your intended recipient will see ads related to your search!
-- [Private route planning](en/maps): Keep details of your planned routes to yourself using our private map search feature.
-- [Image search](en//image-index): Findx searches popular image services which have quality moderation, so you know the images that you (and your children) see are safe.
-- [Video search](en/video): You can search for videos and browse results in private. To ensure the highest level of privacy, use Findx with our private browser Privafox.
+- [Improve search results](/en/improvesearch): Collaborate with your fellow searchers and contribute your feedback to improve search results for everyone.
+- [Shopping search](/en/features/shopping): Search for gifts in private, without worrying that your intended recipient will see ads related to your search!
+- [Private route planning](/en/maps): Keep details of your planned routes to yourself using our private map search feature.
+- [Image search](e/n/image-index): Findx searches popular image services which have quality moderation, so you know the images that you (and your children) see are safe.
+- [Video search](/en/video): You can search for videos and browse results in private. To ensure the highest level of privacy, use Findx with our private browser Privafox.
 - [Safe search](/en/settings/safesearch): Make sure you protect your children and filter out sites that contain 'adult' content. 
 - [Instant answers](/en/instantanswers): Use Findx to quickly calculate something, set a timer or get a weather forecast, right from the search field.
 
@@ -47,8 +47,8 @@ Read more about all of the Findx features at: [https://www.privacore.com/Findx/f
 
 Do you want to make using Findx easier?
 
-- Make Findx your default home page [in your browser](findx-homepage) or [on your phone](findx-homepage-phone).
-- [Set your language on Findx](/settings/languagedetection).
+- Make Findx your default home page [in your browser](/en/findx-homepage) or [on your phone](/en/findx-homepage-phone).
+- [Set your language on Findx](/en/settings/languagedetection).
 - Do you prefer a new tab to open when you click on a result? [Change this setting to visit sites in a new tab](/en/settings/new-tab).
 - Don't like auto-suggest? You can easily [turn auto-suggest off](/en/settings/auto-suggest).
 

@@ -1,7 +1,7 @@
 # FAQ - Frequently asked Questions  
 
 - [How do you protect my privacy?](/en/findxapps/faq/protectprivacy)
-- [Why is Findx the	 default search engine?](/en/findxapps/faq/findxdefault)
+- [Why is Findx the	default search engine?](/en/findxapps/faq/findxdefault)
 - [What happens with my browsing history?](/en/findxapps/faq/browsinghistory)
 - [Do you save form data?](/en/findxapps/faq/formdata)
 - [Why can't I start a "New Private window"?](/en/findxapps/faq/noprivatewindow)

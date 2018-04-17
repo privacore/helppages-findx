@@ -1,6 +1,6 @@
 # FAQ - Frequently Asked Questions  
 
-- [What is the Findx Privacy Control browser extension?](en/privacycontrol)
+- [What is the Findx Privacy Control browser extension?](/en/privacycontrol)
 - [How do I make Findx my default search engine?](/en/gettingstarted/findxinfirefox)
 - [How can I use Findx on my smartphone or tablet?](/en/gettingstarted/findxmobile)
 - [Does Findx index images?](/en/faq/image-index)
