@@ -5,7 +5,6 @@
 - [What happens with my browsing history?](/en/findxapps/faq/browsinghistory)
 - [Do you save form data?](/en/findxapps/faq/formdata)
 - [Why can't I start a "New Private window"?](/en/findxapps/faq/noprivatewindow)
-- [How does the Findx Privacy Control browser extension work?](/en/findxapps/faq/privacycontrol)
 - [How do I remove the Findx app from my device](/en/findxapps/faq/howtoremovefindxapp)
 
 Are you having problems with your Findx app and can’t find a solution within the FAQs? 

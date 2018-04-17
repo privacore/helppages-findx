@@ -10,6 +10,9 @@ This also means that your search results are not ranked based on what you have c
 
 What you see is what everyone sees - Findx's ranking algorithm is not biased. 
 
+## Protect your privacy in your favourite browser with Findx Privacy Control
+- [Learn how to use Findx Privacy Control](/en/findxapps/privacycontrol)
+
 ## Make Findx your homepage and default search engine  
 - [Install a lightweight browser plugin to automatically set Findx to be your default  search engine in Firefox and Chrome](en/browserplugin) (Safari add-on is in planning)
 - [Make Findx my default search engine in Firefox](/en/gettingstarted/findxinfirefox)  
@@ -24,9 +27,6 @@ What you see is what everyone sees - Findx's ranking algorithm is not biased.
 ## Use Findx on your mobile devices
 - [Download the Findx app for Apple devices from the App Store](https://itunes.apple.com/us/app/findx-private-search-engine/id1289648958?mt=8)
 - [Download the Findx app for Android from Google Play](https://play.google.com/store/apps/details?id=com.privacore.findx)
-
-## Protect your privacy in your favourite browser with Findx Privacy Control
-- [Learn how to use Findx Privacy Control](/en/findxapps/privacycontrol)
 
 
 ## Features of Findx 

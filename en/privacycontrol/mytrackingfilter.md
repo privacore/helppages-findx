@@ -8,8 +8,8 @@ You can add your own custom protection list from within the Findx Privacy Contro
 
 Add the locations of the protection list filters that you want to use in the text box, one filter per line. If you want to add a comment, start the line with an exclamation point (!) - these will be ignored when the protection list is loaded.
 
-If you have a protection list saved to a file on your computer that you want to add to, click *Import and append* 
+If you have a protection list saved to a file on your computer that you want to add to, click **Import and append** 
 
-You can *Export* your list to save it to a file. 
+You can **Export** your list to save it to a file. 
 
-Once you have finished, click *Apply changes* to save your custom protection list.
+Once you have finished, click **Apply changes** to save your custom protection list.

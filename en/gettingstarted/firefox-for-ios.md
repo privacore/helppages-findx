@@ -24,5 +24,3 @@ Now you can search using Findx by simply typing your search phrase into the addr
 2. Tap **Add search engine** at the bottom.
 3. In **Title** type **Findx**  
 4. In the **URL** field, type **https://www.findx.com/search?q=%** 
-
-**Note**: The Findx private search engine will be available as a native app for iOS sometime in 2017.

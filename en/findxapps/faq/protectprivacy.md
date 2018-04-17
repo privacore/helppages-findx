@@ -6,7 +6,4 @@ The Findx apps have several features which protect your privacy.
 - Your [browsing history is never saved](/en/findxapps/faq/browsinghistory) when you exit the Findx app. Each time you open the Findx app, it is as if it's the first time - no one can see where you've been online.
 - [Form data is never saved](/en/findxapps/faq/formdata), it is forgotten as soon as you have entered it.
 
-## Findx Privacy Control browser extension features
-- [An introduction to the Findx Privacy Control](/en/findxapps/privacycontrol/introduction) - learn how to get control of your privacy when you are using your favourite browser.
-
 You have control over who sees your data, and what data is stored on your device when you use Findx.
