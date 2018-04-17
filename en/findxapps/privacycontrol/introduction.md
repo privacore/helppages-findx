@@ -36,3 +36,9 @@ Whether you have clicked on one of these shortcuts, or entered a search, you'll 
 
 Your searches are completely private with Findx!
 
+# Get the extensions for your browser today
+
+[Findx Privacy Control add-on for Firefox](https://addons.mozilla.org/en-US/firefox/addon/findx-privacy-control/)
+
+[Findx Privacy Control extension for Chrome](https://chrome.google.com/webstore/detail/findx-privacy-control/hmindffkcgchnijdapipnaoajajkhjpn)
+

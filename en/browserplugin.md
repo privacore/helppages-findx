@@ -1,4 +1,4 @@
-# Use the Findx browser extensions
+# Use the  Findx browser extensions
 
 Instead of [changing your default search engine manually](/en/browserplugin/change-searchengine) in the three most popular browsers, you can install a lightweight browser extension, which will update the default search engine automatically. 
 
@@ -32,6 +32,14 @@ To add Findx as the default search engine in Chrome:
   4. Now you have changed to Findx private search as default 
   
 The official Findx Chrome extension sets Findx as your default search engine, home page and new tab page.
+
+## Findx Privacy Control extension for Chrome
+
+1. Go to the [Chrome web store and search for Findx Privacy Control](https://chrome.google.com/webstore/detail/findx-privacy-control/hmindffkcgchnijdapipnaoajajkhjpn).
+2. Click on **Add to Chrome**.
+3. Click on **Add extension** to confirm.
+
+The Findx Privacy Control icon will be added next to the URL field at the top right. Use this to control what gets blocked - all ads and trackers, or just the creepy ones.
 
 ## Private search engine add-on for Safari  
 To add Findx as the default search engine in Safari: 
