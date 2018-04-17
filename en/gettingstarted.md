@@ -14,7 +14,7 @@ What you see is what everyone sees - Findx's ranking algorithm is not biased.
 - [Learn how to use Findx Privacy Control](/en/findxapps/privacycontrol)
 
 ## Make Findx your homepage and default search engine  
-- [Install a lightweight browser plugin to automatically set Findx to be your default  search engine in Firefox and Chrome](en/browserplugin) (Safari add-on is in planning)
+- [Install a lightweight browser extension to automatically set Findx to be your default  search engine in Firefox and Chrome](en/browserplugin) (Safari add-on is in planning)
 - [Make Findx my default search engine in Firefox](/en/gettingstarted/findxinfirefox)  
 - [Make Findx my default search engine on an iPhone](/en/gettingstarted/firefox-for-ios)
 
@@ -39,7 +39,7 @@ There are several features that help you get more out of Findx than simply searc
 - [Image search](en//image-index): Findx searches popular image services which have quality moderation, so you know the images that you (and your children) see are safe.
 - [Video search](en/video): You can search for videos and browse results in private. To ensure the highest level of privacy, use Findx with our private browser Privafox.
 - [Safe search](/en/settings/safesearch): Make sure you protect your children and filter out sites that contain 'adult' content. 
-- [Instant answers](/en/settings/instant-answer): Use Findx to quickly calculate something, set a timer or get a weather forecast, right from the search field.
+- [Instant answers](/en/instantanswers): Use Findx to quickly calculate something, set a timer or get a weather forecast, right from the search field.
 
 Read more about all of the Findx features at: [https://www.privacore.com/Findx/features](https://www.privacore.com/Findx/features)
 

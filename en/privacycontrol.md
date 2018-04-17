@@ -1,4 +1,4 @@
-# Findx Privacy Control browser extensions
+# Findx Privacy Control browser extension
 
 The Findx Privacy Control browser extensions are available for the three most popular browsers: Firefox, Chrome and Safari
 
@@ -16,7 +16,7 @@ Plus, you can quickly [search in private using the independent search engine Fin
 
 [Learn how to use the Findx Privacy Control browser extension](/en/privacycontrol/home)
 
-[Findx Privacy Control settings in detail](/en/findxapps/privacycontrol/settings)
+[Findx Privacy Control settings in detail](/en/privacycontrol/settings)
 
 ## Install the Findx Privacy Control extensions
 

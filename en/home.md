@@ -5,7 +5,7 @@ The [Findx Privacy Control browser extension](/en/privacycontrol) lets you block
 
 The Findx search engine is based in Europe and is a truly independent search engine - it is not a metasearch engine. The search results that you see are not tracked and are completely unbiased. It is built into the Findx Privacy Control browser extension so you can easily keep your search history private too. 
 
-The lightweight [Findx apps for mobile](/en/findxapps/home) let you browse and search in private while you are on the go.
+The lightweight [Findx apps for mobile](/en/findxapps) let you browse and search in private while you are on the go.
 
 **Findx lets you:**
 
