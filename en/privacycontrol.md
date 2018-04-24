@@ -7,7 +7,7 @@ This app gives you full control over privacy settings when you browse the web. S
 With the Findx Privacy Control browser extension you can:
 
 - Block third-party trackers
-- Block social tracking (Facebook, etc.)
+- [Block social tracking](/en/privacycontrol/socialtracking) (Facebook, etc.)
 - Block malware
 - Block or control what advertisements are displayed
 - Block entire websites

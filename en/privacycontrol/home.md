@@ -18,6 +18,8 @@ The Findx Privacy Control uses several recommended protection lists - a couple o
 
 **Tip:** You can [subscribe to additional protection lists or create your own custom protection list](/en/privacycontrol/manageprotectionlists) in the Findx Privacy Control settings. 
 
+You can also [block social tracking](/en/privacycontrol/socialtracking) - little trackers that webmasters put on their pages to let users 'like' the page easily. These little trackers collect your personal information, even if you don't have an account with that social media provider!
+
 ## See what was blocked by the Findx Privacy Control
 
 Once you have installed the Findx Privacy Control browser extension, you can see what is blocked on any page you visit.
