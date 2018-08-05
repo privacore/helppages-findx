@@ -6,3 +6,8 @@ With Findx Privacy Control, you can easily turn these off.
 
 1. Click on the Findx Privacy Control icon.
 2. Under the **Protection** tab, there is a section for the two most popular social trackers.  Click on the slider toggles to disable these social media trackers (they'll turn red). 
+
+To be doubly protected, you can also stop social sites from setting third-party cookies. 
+
+1. Click on the Findx Privacy Control icon. 
+2. Under the **Cookies** tab, click on the **Prevent cross-site tracking** toggle button so that it is green. 

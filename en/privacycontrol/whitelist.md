@@ -10,3 +10,5 @@ The whitelist uses uBlock Origin directives.
 4. Enter the directives in the large text box, one directive per line. If a directive is invalid, it will simply be ignored - your browser will still function as normal. 
 5. Click *Apply changes* to save your whitelist.
 
+[You can also manage your cookie whitelists](/en/privacycontrol/managecookies)
+
