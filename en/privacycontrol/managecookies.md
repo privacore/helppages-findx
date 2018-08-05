@@ -7,6 +7,8 @@ But many cookies can be invasive and track you across all the websites you visit
 
 It's annoying to individually manage your cookies in your browser. The Findx Privacy Control browser extension makes it easy. You can quickly whitelist or blacklist entire sites or specific cookie 'providers'.
 
+**Tip:** You can [set how the Findx Privacy Control manages cookies in general in the extension's Settings tab](/en/privacycontrol/cookiesettings). 
+
 ## See the cookies stored by a website
 
 1. Go to a website, click on the Findx Privacy Control icon, then click the Cookies tab if it's not displayed.
