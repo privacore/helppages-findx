@@ -1,4 +1,5 @@
-# General cookie settings (Available in Chrome and Firefox, not in Safari)
+# General cookie settings 
+(Available in Chrome and Firefox, not in Safari)
 
 You can choose how Findx Privacy Control manages cookies in general via the advanced settings. 
 
